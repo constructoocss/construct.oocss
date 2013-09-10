@@ -1,5 +1,5 @@
 /* ========================================================
- * Glue 
+ * construct.oocss 
  * ======================================================== */
 
 // ========================================================
@@ -28,8 +28,6 @@
 	
 	@import "source/type/_main.scss";
 	
-	@import "source/type/_main.scss";
-
 	@import "source/type/_headings.scss";
 
 	@import "source/type/_links.scss";
@@ -37,6 +35,8 @@
 	@import "source/type/_paragraphs.scss";
 
 	@import "source/type/_dividers.scss";
+
+	@import "source/type/_images.scss";
 
 	@import "source/type/_lists.scss";
 

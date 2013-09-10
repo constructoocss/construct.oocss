@@ -3,6 +3,39 @@
 /* @Navbar (object)
    ======================================================== */
 
+/**
+ * Used to create navigation bars. 
+ *
+ * Example:
+ *
+ * <div class="black navbar">
+ *
+ * 		<ul class="list nav">
+ *
+ * 			<li class="nav__item nav__item--active">	
+ *			
+ *				<a class="nav__link">
+ *					
+ *					Item 1
+ *
+ *				<a>
+ *				
+ *			</li>
+ *
+ *			<li class="nav__item">	
+ *
+ *				<a class="nav__link">
+ *			
+ *					Item 2
+ *
+ * 				</a>	
+ *
+ *			</li>
+ *
+ * 		</ul>
+ * </div>
+ */
+
 // B
 // --------------------------------------------------------
 
@@ -34,6 +67,5 @@
 
 // M
 // --------------------------------------------------------
-
 
 }

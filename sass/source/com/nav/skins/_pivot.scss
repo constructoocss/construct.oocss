@@ -1,17 +1,43 @@
 @if $use-pivot == true {
 
-/* @Media (object)
+/* @Pivot (skin)
    ======================================================== */
 
 // B
 // --------------------------------------------------------
 
+/**
+ * Used to create pivot tabs. Use a heading class and a color swatch to render it.
+ *
+ * Example:
+ *
+ * <ul class="h4 gray--text pivot nav">
+ *
+ * 		<li class="nav__item nav__item--active">	
+ *			
+ *			<a class="nav__link">
+ *					
+ *				Item 1
+ *
+ *			<a>
+ *				
+ *		</li>
+ *
+ *		<li class="nav__item">	
+ *
+ *			<a class="nav__link">
+ *			
+ *				Item 2
+ *
+ * 			</a>	
+ *
+ *		</li>
+ *
+ * </ul>
+ */
+
 // E
 // --------------------------------------------------------
-
-/**
- * Use a hn size and [swatch]--text on the .pivot block to render it correctly.
- */
 
 	.pivot .nav__link:hover, .pivot .nav__item--active
 	{

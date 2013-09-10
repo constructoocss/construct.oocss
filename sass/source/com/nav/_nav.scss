@@ -3,6 +3,36 @@
 /* @Nav (object)
    ======================================================== */
 
+/**
+ * Used to create location-independent navigation.
+ *
+ * Example:
+ *
+ * <ul class="nav">
+ *
+ * 		<li class="nav__item nav__item--active">	
+ *			
+ *			<a class="nav__link">
+ *					
+ *				Item 1
+ *
+ *			<a>
+ *				
+ *		</li>
+ *
+ *		<li class="nav__item">	
+ *
+ *			<a class="nav__link">
+ *			
+ *				Item 2
+ *
+ * 			</a>	
+ *
+ *		</li>
+ *
+ * </ul>
+ */
+
 // B
 // --------------------------------------------------------
 

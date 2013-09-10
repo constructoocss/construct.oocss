@@ -3,6 +3,36 @@
 /* @Media (object)
    ======================================================== */
 
+/**
+ * Used to layout content and an image side-by-side.
+ *
+ * Example:
+ *
+ * <div class="media">
+ *
+ * 		<div class="media__image">	
+ *			
+ *			<img src="images/brown-fox.png" />
+ *			
+ *		</div>
+ *
+ *		<div class="media__body">	
+ *					
+ *			<h1>
+ *				About the Fox
+ *			</h1>
+ *
+ * 			<p>	
+ *
+ *				The quick brown fox jumped over the lazy dog.
+ *			
+ *			</p>
+ *				
+ *		</div>
+ *			
+ * </div>
+ */
+
 // B
 // --------------------------------------------------------
 

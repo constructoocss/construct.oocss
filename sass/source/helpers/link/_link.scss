@@ -3,11 +3,29 @@
 /* @Link (helper)
    ======================================================== */
 
+/**
+ * Used to remove the text-decoration on links until it receives a hover event.
+ *
+ * Example:
+ *
+ * <h1>
+ *		<a class="link--pseudo">
+ *
+ *			Blog Heading
+ *	
+ *		</a>
+ *	</h1>
+ */
+
 // B
 // --------------------------------------------------------
 
 // E
 // --------------------------------------------------------
+
+/**
+ * Adds a right margin to embedded images.
+ */
 
 	.link__icon
 	{

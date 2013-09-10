@@ -3,6 +3,32 @@
 /* @Grid (object)
    ======================================================== */
 
+/**
+ * Used to layout content by screen proportions.
+ *
+ * Example:
+ *
+ * <div class="grid">
+ *
+ * 		<div class="unit size--1-2">	
+ *			
+ *			<p>
+ *				The quick brown fox jumped over the lazy dog.
+ *			</p>
+ *
+ *		</div>
+ *
+ * 		<div class="unit size--1-2">	
+ *			
+ *			<p>
+ *				The quick brown fox jumped over the lazy dog.
+ *			</p>
+ *
+ *		</div>
+ *
+ * </div>
+ */
+
 // B
 // --------------------------------------------------------
 
@@ -29,7 +55,7 @@
 // --------------------------------------------------------
 
 /**
- * This does not follow the same B.E.M naming convetion for ease-of-use.
+ * This does not follow the same B.E.M naming convention for ease-of-use.
  */
 
 	.size--1-1 

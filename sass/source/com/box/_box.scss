@@ -2,7 +2,27 @@
 
 /* @Box (object)
    ======================================================== */
-   
+
+/**
+ * Used to box off content from the rest of the page.
+ *
+ * Example:
+ *
+ * <div class="gray box">
+ *
+ *		<h1>
+ *			About the Fox
+ *		</h1>
+ *
+ * 		<p class="box__last">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+
 // B
 // --------------------------------------------------------
 
