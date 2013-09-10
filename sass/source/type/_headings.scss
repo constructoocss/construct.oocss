@@ -1,0 +1,89 @@
+/* Headings
+   ======================================================== */
+
+/* Normal
+   -------------------------------------------------------- */
+
+    h1, h2, h3, h4, h5, h6
+    {
+        font-weight: $hn-weight;
+    }
+
+    @if $use-hn-unit == true {
+
+        h1, .h1
+        {
+            @include fontsize($h1-size);
+        }
+
+        h2, .h2
+        {
+            @include fontsize($h2-size);
+        }
+
+        h3, .h3
+        {
+            @include fontsize($h3-size);
+        }
+
+        h4, .h4
+        {
+            @include fontsize($h4-size);
+        }
+
+        h5, .h5
+        {
+            @include fontsize($h5-size);
+        }
+
+        h6, .h6
+        {
+            @include fontsize($h6-size);
+        }
+
+    }
+    @else {
+
+        h1
+        {
+            @include fontsize($h1-size);
+        }
+
+        h2
+        {
+            @include fontsize($h2-size);
+        }
+
+        h3
+        {
+            @include fontsize($h3-size);
+        }
+
+        h4
+        {
+            @include fontsize($h4-size);
+        }
+
+        h5
+        {
+            @include fontsize($h5-size);
+        }
+
+        h6
+        {
+            @include fontsize($h6-size);
+        }
+
+    }
+
+/* Hero
+   -------------------------------------------------------- */
+ 
+    @if $use-hero-unit == true {
+
+        .hero
+        {
+            @include fontsize($hero-size);
+        }
+
+    }

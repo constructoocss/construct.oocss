@@ -1,0 +1,2214 @@
+2013-09-08 19:35:09     error sass/imports.scss (Line 7: File to import not found or unreadable: source/com/_alert.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 19:35:09    create stylesheets/imports.css 
+2013-09-08 19:35:53     error sass/imports.scss (Line 8: File to import not found or unreadable: source/com/_alert.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 19:35:53 overwrite stylesheets/imports.css 
+2013-09-08 19:36:03     error sass/imports.scss (Line 8: File to import not found or unreadable: source/com/_alert.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 19:36:03 identical stylesheets/imports.css 
+2013-09-08 19:36:15     error sass/imports.scss (Line 9: File to import not found or unreadable: source/com/_alert.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 19:36:15 overwrite stylesheets/imports.css 
+2013-09-08 19:37:21     error sass/imports.scss (Line 9: File to import not found or unreadable: source/com/_alert.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 19:37:21 identical stylesheets/imports.css 
+2013-09-08 19:38:08     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:38:08 overwrite stylesheets/imports.css 
+2013-09-08 19:38:20     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:38:20 identical stylesheets/imports.css 
+2013-09-08 19:38:47     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:38:47 identical stylesheets/imports.css 
+2013-09-08 19:38:54     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:38:54 identical stylesheets/imports.css 
+2013-09-08 19:39:06     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:06 identical stylesheets/imports.css 
+2013-09-08 19:39:14     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:14 identical stylesheets/imports.css 
+2013-09-08 19:39:21     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:21 identical stylesheets/imports.css 
+2013-09-08 19:39:33     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:33 identical stylesheets/imports.css 
+2013-09-08 19:39:42     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:42 identical stylesheets/imports.css 
+2013-09-08 19:39:50     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:50 identical stylesheets/imports.css 
+2013-09-08 19:39:57     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:39:57 identical stylesheets/imports.css 
+2013-09-08 19:40:08     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:40:08 identical stylesheets/imports.css 
+2013-09-08 19:40:21     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:40:21 identical stylesheets/imports.css 
+2013-09-08 19:40:30     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:40:30 identical stylesheets/imports.css 
+2013-09-08 19:40:39     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:40:39 identical stylesheets/imports.css 
+2013-09-08 19:40:51     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:40:51 identical stylesheets/imports.css 
+2013-09-08 19:40:59     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:40:59 identical stylesheets/imports.css 
+2013-09-08 19:41:08     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:41:08 identical stylesheets/imports.css 
+2013-09-08 19:41:17     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:41:17 identical stylesheets/imports.css 
+2013-09-08 19:41:27     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:41:27 identical stylesheets/imports.css 
+2013-09-08 19:42:47     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:42:47 overwrite stylesheets/imports.css 
+2013-09-08 19:43:27     error sass/imports.scss (Line 1 of sass/source/com/alert/_alert.scss: Undefined variable: "$use--alert".)
+2013-09-08 19:43:27 identical stylesheets/imports.css 
+2013-09-08 19:43:44     error sass/imports.scss (Line 1 of sass/source/com/bar/_bar.scss: Undefined variable: "$use--bar".)
+2013-09-08 19:43:44 overwrite stylesheets/imports.css 
+2013-09-08 19:43:51     error sass/imports.scss (Line 1 of sass/source/com/box/_box.scss: Undefined variable: "$use--box".)
+2013-09-08 19:43:51 overwrite stylesheets/imports.css 
+2013-09-08 19:43:59     error sass/imports.scss (Line 1 of sass/source/com/box/skins/_chat.scss: Undefined variable: "$use--chat".)
+2013-09-08 19:43:59 overwrite stylesheets/imports.css 
+2013-09-08 19:44:03     error sass/imports.scss (Line 1 of sass/source/com/box/skins/_plate.scss: Undefined variable: "$use--plate".)
+2013-09-08 19:44:03 overwrite stylesheets/imports.css 
+2013-09-08 19:44:08     error sass/imports.scss (Line 1 of sass/source/com/box/skins/_round.scss: Undefined variable: "$use--round".)
+2013-09-08 19:44:08 overwrite stylesheets/imports.css 
+2013-09-08 19:44:12     error sass/imports.scss (Line 1 of sass/source/com/box/skins/_well.scss: Undefined variable: "$use--well".)
+2013-09-08 19:44:12 overwrite stylesheets/imports.css 
+2013-09-08 19:44:17     error sass/imports.scss (Line 1 of sass/source/com/btn/_btn.scss: Undefined variable: "$use--btn".)
+2013-09-08 19:44:17 overwrite stylesheets/imports.css 
+2013-09-08 19:44:24     error sass/imports.scss (Line 1 of sass/source/com/btn/_btn.scss: Undefined variable: "$use--btn".)
+2013-09-08 19:44:24 identical stylesheets/imports.css 
+2013-09-08 19:44:27     error sass/imports.scss (Line 1 of sass/source/com/btn/_btn.scss: Undefined variable: "$use--btn".)
+2013-09-08 19:44:27 identical stylesheets/imports.css 
+2013-09-08 19:44:30     error sass/imports.scss (Line 1 of sass/source/com/data/_data.scss: Undefined variable: "$use--data".)
+2013-09-08 19:44:30 overwrite stylesheets/imports.css 
+2013-09-08 19:44:38     error sass/imports.scss (Line 1 of sass/source/com/dock/_dock.scss: Undefined variable: "$use--dock".)
+2013-09-08 19:44:38 overwrite stylesheets/imports.css 
+2013-09-08 19:44:42     error sass/imports.scss (Line 1 of sass/source/com/grid/_grid.scss: Undefined variable: "$use--grid".)
+2013-09-08 19:44:42 overwrite stylesheets/imports.css 
+2013-09-08 19:44:50     error sass/imports.scss (Line 1 of sass/source/com/label/_label.scss: Undefined variable: "$use--label".)
+2013-09-08 19:44:50 overwrite stylesheets/imports.css 
+2013-09-08 19:44:54     error sass/imports.scss (Line 1 of sass/source/com/label/skins/_badge.scss: Undefined variable: "$use--badge".)
+2013-09-08 19:44:54 overwrite stylesheets/imports.css 
+2013-09-08 19:45:00     error sass/imports.scss (Line 1 of sass/source/com/media/_media.scss: Undefined variable: "$use--media".)
+2013-09-08 19:45:00 overwrite stylesheets/imports.css 
+2013-09-08 19:45:09     error sass/imports.scss (Line 1 of sass/source/com/nav/_nav.scss: Undefined variable: "$use--nav".)
+2013-09-08 19:45:09 overwrite stylesheets/imports.css 
+2013-09-08 19:45:15     error sass/imports.scss (Line 1 of sass/source/com/navbar/_navbar.scss: Undefined variable: "$use--navbar".)
+2013-09-08 19:45:15 overwrite stylesheets/imports.css 
+2013-09-08 19:45:21 overwrite stylesheets/imports.css 
+2013-09-08 19:45:27 identical stylesheets/imports.css 
+2013-09-08 19:46:33 identical stylesheets/imports.css 
+2013-09-08 19:46:51 overwrite stylesheets/imports.css 
+2013-09-08 19:47:00 overwrite stylesheets/imports.css 
+2013-09-08 19:47:08 overwrite stylesheets/imports.css 
+2013-09-08 19:47:12 overwrite stylesheets/imports.css 
+2013-09-08 19:47:17 overwrite stylesheets/imports.css 
+2013-09-08 19:47:20 overwrite stylesheets/imports.css 
+2013-09-08 19:47:24 overwrite stylesheets/imports.css 
+2013-09-08 19:47:32 overwrite stylesheets/imports.css 
+2013-09-08 19:47:38 overwrite stylesheets/imports.css 
+2013-09-08 19:47:42 overwrite stylesheets/imports.css 
+2013-09-08 19:47:50 overwrite stylesheets/imports.css 
+2013-09-08 19:47:54 overwrite stylesheets/imports.css 
+2013-09-08 19:48:00 overwrite stylesheets/imports.css 
+2013-09-08 19:48:08 overwrite stylesheets/imports.css 
+2013-09-08 19:48:12 overwrite stylesheets/imports.css 
+2013-09-08 19:48:20 overwrite stylesheets/imports.css 
+2013-09-08 19:48:29 overwrite stylesheets/imports.css 
+2013-09-08 19:48:41 overwrite stylesheets/imports.css 
+2013-09-08 19:49:36 overwrite stylesheets/imports.css 
+2013-09-08 19:49:45 overwrite stylesheets/imports.css 
+2013-09-08 19:50:51 overwrite stylesheets/imports.css 
+2013-09-08 19:51:11 identical stylesheets/imports.css 
+2013-09-08 19:51:42 overwrite stylesheets/imports.css 
+2013-09-08 19:51:54 overwrite stylesheets/imports.css 
+2013-09-08 19:52:06 overwrite stylesheets/imports.css 
+2013-09-08 19:52:09 overwrite stylesheets/imports.css 
+2013-09-08 19:52:20 overwrite stylesheets/imports.css 
+2013-09-08 19:52:24 overwrite stylesheets/imports.css 
+2013-09-08 19:52:39 overwrite stylesheets/imports.css 
+2013-09-08 19:52:53 overwrite stylesheets/imports.css 
+2013-09-08 19:53:09 overwrite stylesheets/imports.css 
+2013-09-08 19:53:24 overwrite stylesheets/imports.css 
+2013-09-08 19:53:32 overwrite stylesheets/imports.css 
+2013-09-08 19:53:42 overwrite stylesheets/imports.css 
+2013-09-08 19:54:11 overwrite stylesheets/imports.css 
+2013-09-08 19:54:17 overwrite stylesheets/imports.css 
+2013-09-08 19:54:24 overwrite stylesheets/imports.css 
+2013-09-08 19:54:32 overwrite stylesheets/imports.css 
+2013-09-08 19:54:38 overwrite stylesheets/imports.css 
+2013-09-08 19:54:45 overwrite stylesheets/imports.css 
+2013-09-08 19:54:51 overwrite stylesheets/imports.css 
+2013-09-08 19:58:23 overwrite stylesheets/imports.css 
+2013-09-08 19:59:08 identical stylesheets/imports.css 
+2013-09-08 19:59:12 identical stylesheets/imports.css 
+2013-09-08 19:59:26 identical stylesheets/imports.css 
+2013-09-08 19:59:38 identical stylesheets/imports.css 
+2013-09-08 19:59:45 identical stylesheets/imports.css 
+2013-09-08 19:59:51 identical stylesheets/imports.css 
+2013-09-08 20:00:00 identical stylesheets/imports.css 
+2013-09-08 20:00:12 identical stylesheets/imports.css 
+2013-09-08 20:00:26 identical stylesheets/imports.css 
+2013-09-08 20:00:36 identical stylesheets/imports.css 
+2013-09-08 20:00:44 identical stylesheets/imports.css 
+2013-09-08 20:00:53 identical stylesheets/imports.css 
+2013-09-08 20:00:57 identical stylesheets/imports.css 
+2013-09-08 20:01:05 identical stylesheets/imports.css 
+2013-09-08 20:01:06 identical stylesheets/imports.css 
+2013-09-08 20:01:11 identical stylesheets/imports.css 
+2013-09-08 20:01:18 identical stylesheets/imports.css 
+2013-09-08 20:01:36 identical stylesheets/imports.css 
+2013-09-08 20:01:50 identical stylesheets/imports.css 
+2013-09-08 20:02:03 identical stylesheets/imports.css 
+2013-09-08 20:02:20 identical stylesheets/imports.css 
+2013-09-08 20:02:30 identical stylesheets/imports.css 
+2013-09-08 20:02:50 identical stylesheets/imports.css 
+2013-09-08 20:03:05 identical stylesheets/imports.css 
+2013-09-08 20:03:21 identical stylesheets/imports.css 
+2013-09-08 21:16:51 overwrite stylesheets/imports.css 
+2013-09-08 21:22:18     error sass/imports.scss (Line 6 of sass/source/util/_reset.scss: Undefined mixin 'vendor'.)
+2013-09-08 21:22:18 overwrite stylesheets/imports.css 
+2013-09-08 21:22:28     error sass/imports.scss (Line 6 of sass/source/util/_reset.scss: Undefined mixin 'vendor'.)
+2013-09-08 21:22:28 overwrite stylesheets/imports.css 
+2013-09-08 21:23:25     error sass/imports.scss (Line 7: File to import not found or unreadable: themes/_default.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 21:23:25 overwrite stylesheets/imports.css 
+2013-09-08 21:24:04     error sass/imports.scss (Line 7: File to import not found or unreadable: themes/_default.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 21:24:04 identical stylesheets/imports.css 
+2013-09-08 21:24:08     error sass/imports.scss (Line 7: File to import not found or unreadable: themes/_default.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 21:24:08 identical stylesheets/imports.css 
+2013-09-08 21:24:26     error sass/imports.scss (Line 7: File to import not found or unreadable: themes/_default.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 21:24:26 identical stylesheets/imports.css 
+2013-09-08 21:24:55     error sass/imports.scss (Line 7: File to import not found or unreadable: themes/_default.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 21:24:55 identical stylesheets/imports.css 
+2013-09-08 21:25:42     error sass/imports.scss (Line 7: File to import not found or unreadable: themes/_default.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 21:25:42 identical stylesheets/imports.css 
+2013-09-08 21:27:00 overwrite stylesheets/imports.css 
+2013-09-08 21:27:33 identical stylesheets/imports.css 
+2013-09-08 21:31:55 overwrite stylesheets/imports.css 
+2013-09-08 21:32:33 identical stylesheets/imports.css 
+2013-09-08 21:35:43 overwrite stylesheets/imports.css 
+2013-09-08 21:35:57     error sass/imports.scss (Line 6 of sass/source/type/_headings.scss: Undefined variable: "$hn-weight".)
+2013-09-08 21:35:57 overwrite stylesheets/imports.css 
+2013-09-08 21:37:21 overwrite stylesheets/imports.css 
+2013-09-08 21:37:55 identical stylesheets/imports.css 
+2013-09-08 21:38:15 identical stylesheets/imports.css 
+2013-09-08 21:42:31 identical stylesheets/imports.css 
+2013-09-08 21:42:51 overwrite stylesheets/imports.css 
+2013-09-08 21:43:06 overwrite stylesheets/imports.css 
+2013-09-08 21:43:09 identical stylesheets/imports.css 
+2013-09-08 21:43:22 overwrite stylesheets/imports.css 
+2013-09-08 21:44:04 overwrite stylesheets/imports.css 
+2013-09-08 21:44:42 identical stylesheets/imports.css 
+2013-09-08 21:46:19 overwrite stylesheets/imports.css 
+2013-09-08 21:47:31     error sass/imports.scss (Line 6 of sass/source/type/_body.scss: Undefined variable: "$base-font-family".)
+2013-09-08 21:47:31 overwrite stylesheets/imports.css 
+2013-09-08 21:48:04     error sass/imports.scss (Line 6 of sass/source/type/_body.scss: Undefined variable: "$base-font-family".)
+2013-09-08 21:48:04 identical stylesheets/imports.css 
+2013-09-08 21:48:42 overwrite stylesheets/imports.css 
+2013-09-08 21:48:54 identical stylesheets/imports.css 
+2013-09-08 21:50:09 overwrite stylesheets/imports.css 
+2013-09-08 21:51:15 overwrite stylesheets/imports.css 
+2013-09-08 21:52:54     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 21:52:54 overwrite stylesheets/imports.css 
+2013-09-08 21:57:37     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 21:57:37 identical stylesheets/imports.css 
+2013-09-08 21:57:48     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 21:57:48 identical stylesheets/imports.css 
+2013-09-08 21:58:43     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 21:58:43 identical stylesheets/imports.css 
+2013-09-08 21:59:21     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 21:59:21 overwrite stylesheets/imports.css 
+2013-09-08 22:06:21     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 22:06:21 overwrite stylesheets/imports.css 
+2013-09-08 22:06:31     error sass/imports.scss (Line 6 of sass/source/type/_paragraphs.scss: Undefined variable: "$lead-size".)
+2013-09-08 22:06:31 identical stylesheets/imports.css 
+2013-09-08 22:07:01     error sass/imports.scss (Line 8 of sass/source/type/_dividers.scss: Undefined variable: "$hr-color".)
+2013-09-08 22:07:01 overwrite stylesheets/imports.css 
+2013-09-08 22:07:12     error sass/imports.scss (Line 8 of sass/source/type/_dividers.scss: Undefined variable: "$hr-color".)
+2013-09-08 22:07:12 identical stylesheets/imports.css 
+2013-09-08 22:07:45     error sass/imports.scss (Line 8 of sass/source/type/_dividers.scss: Undefined variable: "$hr-color".)
+2013-09-08 22:07:45 identical stylesheets/imports.css 
+2013-09-08 22:07:58     error sass/imports.scss (Line 8 of sass/source/type/_dividers.scss: Undefined variable: "$hr-color".)
+2013-09-08 22:07:58 identical stylesheets/imports.css 
+2013-09-08 22:08:03     error sass/imports.scss (Line 8 of sass/source/type/_dividers.scss: Undefined variable: "$hr-color".)
+2013-09-08 22:08:03 identical stylesheets/imports.css 
+2013-09-08 22:08:15     error sass/imports.scss (Line 8 of sass/source/type/_dividers.scss: Undefined variable: "$hr-color".)
+2013-09-08 22:08:15 identical stylesheets/imports.css 
+2013-09-08 22:08:40 overwrite stylesheets/imports.css 
+2013-09-08 22:08:43 overwrite stylesheets/imports.css 
+2013-09-08 22:10:09 overwrite stylesheets/imports.css 
+2013-09-08 22:15:27     error sass/imports.scss (Line 1 of sass/source/com/rule/_rule.scss: Undefined variable: "$use-rule".)
+2013-09-08 22:15:27 overwrite stylesheets/imports.css 
+2013-09-08 22:15:39 overwrite stylesheets/imports.css 
+2013-09-08 22:24:52     error sass/imports.scss (Line 71: File to import not found or unreadable: source/com/alert/hn.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 22:24:52 overwrite stylesheets/imports.css 
+2013-09-08 22:25:04     error sass/imports.scss (Line 1 of sass/source/com/hn/_hn.scss: Undefined variable: "$use-hn".)
+2013-09-08 22:25:04 overwrite stylesheets/imports.css 
+2013-09-08 22:25:35 overwrite stylesheets/imports.css 
+2013-09-08 22:25:39 identical stylesheets/imports.css 
+2013-09-08 22:26:24 identical stylesheets/imports.css 
+2013-09-08 22:27:08 overwrite stylesheets/imports.css 
+2013-09-08 22:27:10 identical stylesheets/imports.css 
+2013-09-08 22:28:25 overwrite stylesheets/imports.css 
+2013-09-08 22:29:19 overwrite stylesheets/imports.css 
+2013-09-08 22:29:49 overwrite stylesheets/imports.css 
+2013-09-08 22:31:54     error sass/imports.scss (Line 71: File to import not found or unreadable: source/com/hn/_hn.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 22:31:54 overwrite stylesheets/imports.css 
+2013-09-08 22:32:51     error sass/imports.scss (Line 71: File to import not found or unreadable: source/com/hn/_hn.scss.
+Load paths:
+  C:/Users/Hero/Desktop/Glue/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-08 22:32:51 overwrite stylesheets/imports.css 
+2013-09-08 22:32:55 overwrite stylesheets/imports.css 
+2013-09-08 22:34:13 identical stylesheets/imports.css 
+2013-09-08 22:34:33 overwrite stylesheets/imports.css 
+2013-09-08 22:34:48 overwrite stylesheets/imports.css 
+2013-09-08 22:41:14 overwrite stylesheets/imports.css 
+2013-09-08 22:41:16 identical stylesheets/imports.css 
+2013-09-08 22:47:27 overwrite stylesheets/imports.css 
+2013-09-08 22:49:03 overwrite stylesheets/imports.css 
+2013-09-08 22:50:09 identical stylesheets/imports.css 
+2013-09-08 23:17:26 overwrite stylesheets/imports.css 
+2013-09-09 09:08:57     error sass/imports.scss (Line 1 of sass/source/misc/_helpers.scss: Undefined variable: "$use-helpers".)
+2013-09-09 09:08:57 overwrite stylesheets/imports.css 
+2013-09-09 09:09:21 overwrite stylesheets/imports.css 
+2013-09-09 09:11:29 overwrite stylesheets/imports.css 
+2013-09-09 09:12:33 identical stylesheets/imports.css 
+2013-09-09 09:16:37     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:37 overwrite stylesheets/imports.css 
+2013-09-09 09:16:38     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:38 identical stylesheets/imports.css 
+2013-09-09 09:16:38     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:38 identical stylesheets/imports.css 
+2013-09-09 09:16:38     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:38 overwrite stylesheets/imports.css 
+2013-09-09 09:16:38     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:38 identical stylesheets/imports.css 
+2013-09-09 09:16:38     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:38 identical stylesheets/imports.css 
+2013-09-09 09:16:46     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:16:46 identical stylesheets/imports.css 
+2013-09-09 09:17:43     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:43 overwrite stylesheets/imports.css 
+2013-09-09 09:17:43     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:43 identical stylesheets/imports.css 
+2013-09-09 09:17:44     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:44 identical stylesheets/imports.css 
+2013-09-09 09:17:44     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:44 identical stylesheets/imports.css 
+2013-09-09 09:17:44     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:44 overwrite stylesheets/imports.css 
+2013-09-09 09:17:44     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:44 identical stylesheets/imports.css 
+2013-09-09 09:17:44     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:44 identical stylesheets/imports.css 
+2013-09-09 09:17:44     error sass/imports.scss (Line 89: File to import not found or unreadable: source/misc/_helpers.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:17:44 identical stylesheets/imports.css 
+2013-09-09 09:18:16     error sass/imports.scss (Line 1 of sass/source/com/helpers/text/_text.scss: Undefined variable: "$use-text".)
+2013-09-09 09:18:16 overwrite stylesheets/imports.css 
+2013-09-09 09:18:45     error sass/imports.scss (Line 95: File to import not found or unreadable: source/misc/_trumps.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:18:45 overwrite stylesheets/imports.css 
+2013-09-09 09:18:51     error sass/imports.scss (Line 95: File to import not found or unreadable: source/misc/_trumps.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:18:51 identical stylesheets/imports.css 
+2013-09-09 09:19:00 overwrite stylesheets/imports.css 
+2013-09-09 09:21:13 identical stylesheets/imports.css 
+2013-09-09 09:21:31 overwrite stylesheets/imports.css 
+2013-09-09 09:21:39 overwrite stylesheets/imports.css 
+2013-09-09 09:21:46 identical stylesheets/imports.css 
+2013-09-09 09:22:51 identical stylesheets/imports.css 
+2013-09-09 09:26:43     error sass/imports.scss (Line 1 of sass/source/com/helpers/cf/_cf.scss: Undefined variable: "$use-cf".)
+2013-09-09 09:26:43 overwrite stylesheets/imports.css 
+2013-09-09 09:27:03 overwrite stylesheets/imports.css 
+2013-09-09 09:29:43 identical stylesheets/imports.css 
+2013-09-09 09:29:58 overwrite stylesheets/imports.css 
+2013-09-09 09:30:30     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:30 overwrite stylesheets/imports.css 
+2013-09-09 09:30:30     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:30 identical stylesheets/imports.css 
+2013-09-09 09:30:30     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:30 identical stylesheets/imports.css 
+2013-09-09 09:30:30     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:30 identical stylesheets/imports.css 
+2013-09-09 09:30:30     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:30 identical stylesheets/imports.css 
+2013-09-09 09:30:30     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:30 identical stylesheets/imports.css 
+2013-09-09 09:30:31     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:31 overwrite stylesheets/imports.css 
+2013-09-09 09:30:31     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:31 identical stylesheets/imports.css 
+2013-09-09 09:30:31     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:31 identical stylesheets/imports.css 
+2013-09-09 09:30:31     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:31 identical stylesheets/imports.css 
+2013-09-09 09:30:31     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:31 identical stylesheets/imports.css 
+2013-09-09 09:30:31     error sass/imports.scss (Line 89: File to import not found or unreadable: source/com/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:30:31 identical stylesheets/imports.css 
+2013-09-09 09:30:38 overwrite stylesheets/imports.css 
+2013-09-09 09:31:03 overwrite stylesheets/imports.css 
+2013-09-09 09:35:13     error sass/imports.scss (Line 89: File to import not found or unreadable: source/helpers/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:13 overwrite stylesheets/imports.css 
+2013-09-09 09:35:19     error sass/imports.scss (Line 89: File to import not found or unreadable: source/helpers/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:19 overwrite stylesheets/imports.css 
+2013-09-09 09:35:25     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:25 overwrite stylesheets/imports.css 
+2013-09-09 09:35:26     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:26 overwrite stylesheets/imports.css 
+2013-09-09 09:35:33     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:33 overwrite stylesheets/imports.css 
+2013-09-09 09:35:33     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:33 overwrite stylesheets/imports.css 
+2013-09-09 09:35:39     error sass/imports.scss (Line 95: File to import not found or unreadable: source/helpers/_text.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:39 overwrite stylesheets/imports.css 
+2013-09-09 09:35:39     error sass/imports.scss (Line 95: File to import not found or unreadable: source/helpers/_text.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:35:39 overwrite stylesheets/imports.css 
+2013-09-09 09:36:37     error sass/imports.scss (Line 95: File to import not found or unreadable: source/helpers/_text.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:37 overwrite stylesheets/imports.css 
+2013-09-09 09:36:38     error sass/imports.scss (Line 95: File to import not found or unreadable: source/helpers/_text.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:38 overwrite stylesheets/imports.css 
+2013-09-09 09:36:39     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:39 overwrite stylesheets/imports.css 
+2013-09-09 09:36:39     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:39 overwrite stylesheets/imports.css 
+2013-09-09 09:36:40     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:40 overwrite stylesheets/imports.css 
+2013-09-09 09:36:41     error sass/imports.scss (Line 91: File to import not found or unreadable: source/helpers/_flush.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:41 overwrite stylesheets/imports.css 
+2013-09-09 09:36:42     error sass/imports.scss (Line 89: File to import not found or unreadable: source/helpers/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:42 overwrite stylesheets/imports.css 
+2013-09-09 09:36:42     error sass/imports.scss (Line 89: File to import not found or unreadable: source/helpers/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:36:42 overwrite stylesheets/imports.css 
+2013-09-09 09:36:48 overwrite stylesheets/imports.css 
+2013-09-09 09:37:40     error sass/imports.scss (Line 89: File to import not found or unreadable: source/type/helpers/cf/_cf.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 09:37:40 overwrite stylesheets/imports.css 
+2013-09-09 09:37:43 overwrite stylesheets/imports.css 
+2013-09-09 09:38:33 identical stylesheets/imports.css 
+2013-09-09 09:49:49 identical stylesheets/imports.css 
+2013-09-09 09:51:03 identical stylesheets/imports.css 
+2013-09-09 09:51:55 identical stylesheets/imports.css 
+2013-09-09 09:52:46     error sass/imports.scss (Line 7 of sass/source/util/_reset.scss: Undefined variable: "$use-border-box".)
+2013-09-09 09:52:46 overwrite stylesheets/imports.css 
+2013-09-09 09:52:58 overwrite stylesheets/imports.css 
+2013-09-09 10:01:18 identical stylesheets/imports.css 
+2013-09-09 10:02:10 identical stylesheets/imports.css 
+2013-09-09 10:02:33     error sass/imports.scss (Line 101: File to import not found or unreadable: source/trumphs/nav/_trumps.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:02:33 overwrite stylesheets/imports.css 
+2013-09-09 10:02:46     error sass/imports.scss (Line 101: File to import not found or unreadable: source/trumphs/nav/_trumps.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:02:46 overwrite stylesheets/imports.css 
+2013-09-09 10:03:06     error sass/imports.scss (Line 101: File to import not found or unreadable: source/trumps/nav/_trumps.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:03:06 overwrite stylesheets/imports.css 
+2013-09-09 10:03:18 overwrite stylesheets/imports.css 
+2013-09-09 10:14:36     error sass/imports.scss (Line 1 of sass/source/helpers/img/_img.scss: Undefined variable: "$use-img".)
+2013-09-09 10:14:36 overwrite stylesheets/imports.css 
+2013-09-09 10:15:33 overwrite stylesheets/imports.css 
+2013-09-09 10:17:58     error sass/imports.scss (Line 97: File to import not found or unreadable: source/helpers/img/_link.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:17:58 overwrite stylesheets/imports.css 
+2013-09-09 10:18:09     error sass/imports.scss (Line 97: File to import not found or unreadable: source/helpers/img/_link.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:18:09 identical stylesheets/imports.css 
+2013-09-09 10:18:33     error sass/imports.scss (Line 97: File to import not found or unreadable: source/helpers/img/_link.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:18:33 identical stylesheets/imports.css 
+2013-09-09 10:18:57 overwrite stylesheets/imports.css 
+2013-09-09 10:21:13 overwrite stylesheets/imports.css 
+2013-09-09 10:21:30 overwrite stylesheets/imports.css 
+2013-09-09 10:22:51 overwrite stylesheets/imports.css 
+2013-09-09 10:24:00 overwrite stylesheets/imports.css 
+2013-09-09 10:27:23 identical stylesheets/imports.css 
+2013-09-09 10:27:55     error sass/imports.scss (Line 9 of sass/source/type/_forms.scss: Undefined variable: "$base-spacing-unit".)
+2013-09-09 10:27:55 overwrite stylesheets/imports.css 
+2013-09-09 10:29:14 overwrite stylesheets/imports.css 
+2013-09-09 10:32:42     error sass/imports.scss (Line 12 of sass/source/type/_headings.scss: Undefined variable: "$use-hn-unit".)
+2013-09-09 10:32:42 overwrite stylesheets/imports.css 
+2013-09-09 10:33:10     error sass/imports.scss (Line 12 of sass/source/type/_headings.scss: Undefined variable: "$use-hn-unit".)
+2013-09-09 10:33:10 identical stylesheets/imports.css 
+2013-09-09 10:33:22     error sass/imports.scss (Line 82 of sass/source/type/_headings.scss: Undefined variable: "$use-hero-unit".)
+2013-09-09 10:33:22 overwrite stylesheets/imports.css 
+2013-09-09 10:33:28     error sass/imports.scss (Line 82 of sass/source/type/_headings.scss: Undefined variable: "$use-hero-unit".)
+2013-09-09 10:33:28 identical stylesheets/imports.css 
+2013-09-09 10:33:41 overwrite stylesheets/imports.css 
+2013-09-09 10:33:48 identical stylesheets/imports.css 
+2013-09-09 10:34:52     error sass/imports.scss (Line 87: File to import not found or unreadable: source/com/rule/_rule.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:34:52 overwrite stylesheets/imports.css 
+2013-09-09 10:34:53     error sass/imports.scss (Line 87: File to import not found or unreadable: source/com/rule/_rule.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:34:53 overwrite stylesheets/imports.css 
+2013-09-09 10:35:09     error sass/imports.scss (Line 87: File to import not found or unreadable: source/com/rule/_rule.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:35:09 overwrite stylesheets/imports.css 
+2013-09-09 10:35:44 overwrite stylesheets/imports.css 
+2013-09-09 10:36:08 overwrite stylesheets/imports.css 
+2013-09-09 10:36:18 identical stylesheets/imports.css 
+2013-09-09 10:36:31 overwrite stylesheets/imports.css 
+2013-09-09 10:36:42 overwrite stylesheets/imports.css 
+2013-09-09 10:36:54 overwrite stylesheets/imports.css 
+2013-09-09 10:36:57 overwrite stylesheets/imports.css 
+2013-09-09 10:37:02 overwrite stylesheets/imports.css 
+2013-09-09 10:51:45 overwrite stylesheets/imports.css 
+2013-09-09 10:52:04     error sass/imports.scss (Line 29: File to import not found or unreadable: source/type/_main.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 10:52:04 overwrite stylesheets/imports.css 
+2013-09-09 10:52:41 overwrite stylesheets/imports.css 
+2013-09-09 10:53:09 identical stylesheets/imports.css 
+2013-09-09 10:53:32 overwrite stylesheets/imports.css 
+2013-09-09 10:54:51     error sass/imports.scss (Line 6 of sass/source/type/_links.scss: Undefined variable: "$link-color".)
+2013-09-09 10:54:51 overwrite stylesheets/imports.css 
+2013-09-09 10:55:22     error sass/imports.scss (Line 46 of sass/themes/_default.scss: Invalid CSS after "	$link-color:": expected expression (e.g. 1px, bold), was ";")
+2013-09-09 10:55:22 overwrite stylesheets/imports.css 
+2013-09-09 10:56:56 overwrite stylesheets/imports.css 
+2013-09-09 11:05:51     error sass/imports.scss (Line 8 of sass/source/type/_paragraphs.scss: Mixin fontsize takes 1 argument but 2 were passed.)
+2013-09-09 11:05:51 overwrite stylesheets/imports.css 
+2013-09-09 11:06:27 overwrite stylesheets/imports.css 
+2013-09-09 11:06:31 identical stylesheets/imports.css 
+2013-09-09 11:07:02 overwrite stylesheets/imports.css 
+2013-09-09 11:09:03 overwrite stylesheets/imports.css 
+2013-09-09 11:17:26 overwrite stylesheets/imports.css 
+2013-09-09 11:18:54 identical stylesheets/imports.css 
+2013-09-09 11:20:23 identical stylesheets/imports.css 
+2013-09-09 11:22:35 overwrite stylesheets/imports.css 
+2013-09-09 11:22:47 overwrite stylesheets/imports.css 
+2013-09-09 11:22:54 overwrite stylesheets/imports.css 
+2013-09-09 11:25:09 identical stylesheets/imports.css 
+2013-09-09 11:25:20 overwrite stylesheets/imports.css 
+2013-09-09 11:25:54 overwrite stylesheets/imports.css 
+2013-09-09 11:27:36 identical stylesheets/imports.css 
+2013-09-09 11:27:42 overwrite stylesheets/imports.css 
+2013-09-09 11:29:27 overwrite stylesheets/imports.css 
+2013-09-09 11:29:42 overwrite stylesheets/imports.css 
+2013-09-09 11:29:48 overwrite stylesheets/imports.css 
+2013-09-09 11:32:03 overwrite stylesheets/imports.css 
+2013-09-09 11:32:09 identical stylesheets/imports.css 
+2013-09-09 11:32:28     error sass/imports.scss (Line 22 of sass/source/helpers/rule/_rule.scss: Invalid CSS after "...tom: 1px dashed": expected ";", was "$ hr-color;")
+2013-09-09 11:32:28 overwrite stylesheets/imports.css 
+2013-09-09 11:32:37     error sass/imports.scss (Line 22 of sass/source/helpers/rule/_rule.scss: Invalid CSS after "...tom: 1px dashed": expected ";", was "$ hr-color;")
+2013-09-09 11:32:37 identical stylesheets/imports.css 
+2013-09-09 11:32:44 overwrite stylesheets/imports.css 
+2013-09-09 11:39:02 identical stylesheets/imports.css 
+2013-09-09 11:39:36 identical stylesheets/imports.css 
+2013-09-09 11:47:00 identical stylesheets/imports.css 
+2013-09-09 11:47:09     error sass/imports.scss (Line 105: File to import not found or unreadable: source/helpers/text/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 11:47:09 overwrite stylesheets/imports.css 
+2013-09-09 11:47:25     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "	for ": expected "{", was "$index from 0 t...")
+2013-09-09 11:47:25 overwrite stylesheets/imports.css 
+2013-09-09 11:48:20     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "	for ": expected "{", was "$index from 0 t...")
+2013-09-09 11:48:20 identical stylesheets/imports.css 
+2013-09-09 11:48:36     error sass/imports.scss (Line 39 of sass/source/util/_mixins.scss: Invalid CSS after "...ecolor: #fff) {": expected "}", was "")
+2013-09-09 11:48:36 overwrite stylesheets/imports.css 
+2013-09-09 11:48:48     error sass/imports.scss (Line 39 of sass/source/util/_mixins.scss: Invalid CSS after "...ecolor: #fff) {": expected "}", was "")
+2013-09-09 11:48:48 identical stylesheets/imports.css 
+2013-09-09 11:48:52     error sass/imports.scss (Line 39 of sass/source/util/_mixins.scss: Invalid CSS after "...ecolor: #fff) {": expected "}", was "")
+2013-09-09 11:48:52 identical stylesheets/imports.css 
+2013-09-09 11:49:24     error sass/imports.scss (Line 39 of sass/source/util/_mixins.scss: Invalid CSS after "...ecolor: #fff) {": expected "}", was "")
+2013-09-09 11:49:24 identical stylesheets/imports.css 
+2013-09-09 12:23:13     error sass/imports.scss (Line 39 of sass/source/util/_mixins.scss: Invalid CSS after "...ecolor: #fff) {": expected "}", was "")
+2013-09-09 12:23:13 identical stylesheets/imports.css 
+2013-09-09 12:23:27     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "	for ": expected "{", was "$index from 0 t...")
+2013-09-09 12:23:27 overwrite stylesheets/imports.css 
+2013-09-09 12:23:39 overwrite stylesheets/imports.css 
+2013-09-09 12:23:53 identical stylesheets/imports.css 
+2013-09-09 12:25:51     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Undefined variable: "$swatches".)
+2013-09-09 12:25:51 overwrite stylesheets/imports.css 
+2013-09-09 12:25:58     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Undefined variable: "$swatches".)
+2013-09-09 12:25:58 identical stylesheets/imports.css 
+2013-09-09 12:26:15     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Undefined variable: "$swatches".)
+2013-09-09 12:26:15 identical stylesheets/imports.css 
+2013-09-09 12:26:24     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Undefined variable: "$swatches".)
+2013-09-09 12:26:24 identical stylesheets/imports.css 
+2013-09-09 12:27:08 overwrite stylesheets/imports.css 
+2013-09-09 12:28:20 overwrite stylesheets/imports.css 
+2013-09-09 12:29:23 identical stylesheets/imports.css 
+2013-09-09 12:30:16     error sass/imports.scss (Line 4 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "")
+2013-09-09 12:30:16 overwrite stylesheets/imports.css 
+2013-09-09 12:31:03     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: wrong number of arguments (1 for 2) for `nth')
+2013-09-09 12:31:03 overwrite stylesheets/imports.css 
+2013-09-09 12:31:09     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: wrong number of arguments (1 for 2) for `nth')
+2013-09-09 12:31:09 identical stylesheets/imports.css 
+2013-09-09 12:31:26 overwrite stylesheets/imports.css 
+2013-09-09 12:31:59 overwrite stylesheets/imports.css 
+2013-09-09 12:33:39     error sass/imports.scss (Line 9 of sass/source/util/_shared.scss: Undefined variable: "$base-line-height".)
+2013-09-09 12:33:39 overwrite stylesheets/imports.css 
+2013-09-09 12:48:18 overwrite stylesheets/imports.css 
+2013-09-09 12:48:51 identical stylesheets/imports.css 
+2013-09-09 12:50:10     error sass/imports.scss (Line 5 of sass/themes/swatches/_default.scss: Undefined mixin 'swatch'.)
+2013-09-09 12:50:10 overwrite stylesheets/imports.css 
+2013-09-09 12:53:17 overwrite stylesheets/imports.css 
+2013-09-09 12:53:57     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Undefined variable: "$swatch-a".)
+2013-09-09 12:53:57 overwrite stylesheets/imports.css 
+2013-09-09 12:54:09 overwrite stylesheets/imports.css 
+2013-09-09 12:55:20 identical stylesheets/imports.css 
+2013-09-09 12:55:23 identical stylesheets/imports.css 
+2013-09-09 12:55:39 identical stylesheets/imports.css 
+2013-09-09 12:55:41 identical stylesheets/imports.css 
+2013-09-09 12:55:51 identical stylesheets/imports.css 
+2013-09-09 12:56:24     error sass/imports.scss (Line 132: Undefined variable: "$custom".)
+2013-09-09 12:56:24 overwrite stylesheets/imports.css 
+2013-09-09 12:56:28     error sass/imports.scss (Line 132: Undefined variable: "$custom".)
+2013-09-09 12:56:28 identical stylesheets/imports.css 
+2013-09-09 12:56:48 overwrite stylesheets/imports.css 
+2013-09-09 12:57:11 identical stylesheets/imports.css 
+2013-09-09 12:59:06 overwrite stylesheets/imports.css 
+2013-09-09 12:59:16     error sass/imports.scss (Line 132: List index is 2 but list is only 1 item long for `nth')
+2013-09-09 12:59:16 overwrite stylesheets/imports.css 
+2013-09-09 12:59:29 overwrite stylesheets/imports.css 
+2013-09-09 12:59:33     error sass/imports.scss (Line 132: Undefined variable: "$swatch-forecolor".)
+2013-09-09 12:59:33 overwrite stylesheets/imports.css 
+2013-09-09 12:59:44 overwrite stylesheets/imports.css 
+2013-09-09 13:00:23 overwrite stylesheets/imports.css 
+2013-09-09 13:00:26 overwrite stylesheets/imports.css 
+2013-09-09 13:00:37     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Undefined variable: "$swatch-a".)
+2013-09-09 13:00:37 overwrite stylesheets/imports.css 
+2013-09-09 13:01:18     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:01:18 overwrite stylesheets/imports.css 
+2013-09-09 13:01:36     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:01:36 identical stylesheets/imports.css 
+2013-09-09 13:01:50 overwrite stylesheets/imports.css 
+2013-09-09 13:01:57 identical stylesheets/imports.css 
+2013-09-09 13:02:12 overwrite stylesheets/imports.css 
+2013-09-09 13:03:05 overwrite stylesheets/imports.css 
+2013-09-09 13:03:06 identical stylesheets/imports.css 
+2013-09-09 13:03:33 identical stylesheets/imports.css 
+2013-09-09 13:03:42 identical stylesheets/imports.css 
+2013-09-09 13:03:45 identical stylesheets/imports.css 
+2013-09-09 13:03:47 identical stylesheets/imports.css 
+2013-09-09 13:03:48 identical stylesheets/imports.css 
+2013-09-09 13:05:00     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: wrong number of arguments (1 for 2) for `nth')
+2013-09-09 13:05:00 overwrite stylesheets/imports.css 
+2013-09-09 13:05:15     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: List index 0 must be greater than or equal to 1 for `nth')
+2013-09-09 13:05:15 overwrite stylesheets/imports.css 
+2013-09-09 13:05:23 overwrite stylesheets/imports.css 
+2013-09-09 13:05:36 identical stylesheets/imports.css 
+2013-09-09 13:05:53 identical stylesheets/imports.css 
+2013-09-09 13:06:27     error sass/imports.scss (Line 4 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:06:27 overwrite stylesheets/imports.css 
+2013-09-09 13:06:31     error sass/imports.scss (Line 4 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:06:31 identical stylesheets/imports.css 
+2013-09-09 13:06:49     error sass/imports.scss (Line 4 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:06:49 identical stylesheets/imports.css 
+2013-09-09 13:07:54     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:07:54 overwrite stylesheets/imports.css 
+2013-09-09 13:08:04     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:08:04 identical stylesheets/imports.css 
+2013-09-09 13:08:42 overwrite stylesheets/imports.css 
+2013-09-09 13:10:10     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:10:10 overwrite stylesheets/imports.css 
+2013-09-09 13:10:16     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "...nth($value, 1);": expected "}", was ".#{$name} ")
+2013-09-09 13:10:16 overwrite stylesheets/imports.css 
+2013-09-09 13:12:16     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "...nth($value, 1);": expected "}", was ".#{$name}-test ")
+2013-09-09 13:12:16 overwrite stylesheets/imports.css 
+2013-09-09 13:12:27     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "...nth($value, 1);": expected "}", was ".#{$name}-test ")
+2013-09-09 13:12:27 identical stylesheets/imports.css 
+2013-09-09 13:12:28     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "...nth($value, 1);": expected "}", was ".#{$name}-test ")
+2013-09-09 13:12:28 identical stylesheets/imports.css 
+2013-09-09 13:12:30     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "...nth($value, 1);": expected "}", was ".#{$name}-test ")
+2013-09-09 13:12:30 identical stylesheets/imports.css 
+2013-09-09 13:12:48 overwrite stylesheets/imports.css 
+2013-09-09 13:13:10     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:10 overwrite stylesheets/imports.css 
+2013-09-09 13:13:12     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:12 identical stylesheets/imports.css 
+2013-09-09 13:13:25     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:25 identical stylesheets/imports.css 
+2013-09-09 13:13:28     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:28 identical stylesheets/imports.css 
+2013-09-09 13:13:31     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:31 identical stylesheets/imports.css 
+2013-09-09 13:13:34     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:34 identical stylesheets/imports.css 
+2013-09-09 13:13:36     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:36 identical stylesheets/imports.css 
+2013-09-09 13:13:54     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0-test")
+2013-09-09 13:13:54 identical stylesheets/imports.css 
+2013-09-09 13:14:00     error sass/imports.scss (Line 4 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:14:00 overwrite stylesheets/imports.css 
+2013-09-09 13:14:04     error sass/imports.scss (Line 4 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:14:04 identical stylesheets/imports.css 
+2013-09-09 13:14:16     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:14:16 overwrite stylesheets/imports.css 
+2013-09-09 13:14:24     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: List index is 2 but list is only 1 item long for `nth')
+2013-09-09 13:14:24 overwrite stylesheets/imports.css 
+2013-09-09 13:14:27     error sass/imports.scss (Line 3 of sass/source/helpers/colors/_colors.scss: List index is 2 but list is only 1 item long for `nth')
+2013-09-09 13:14:27 identical stylesheets/imports.css 
+2013-09-09 13:14:30     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:14:30 overwrite stylesheets/imports.css 
+2013-09-09 13:14:31     error sass/imports.scss (Line 6 of sass/source/helpers/colors/_colors.scss: Invalid CSS after ".": expected class name, was "0")
+2013-09-09 13:14:31 identical stylesheets/imports.css 
+2013-09-09 13:16:15     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "@each ": expected "$", was "value in $swatc...")
+2013-09-09 13:16:15 overwrite stylesheets/imports.css 
+2013-09-09 13:16:18     error sass/imports.scss (Line 1 of sass/source/helpers/colors/_colors.scss: Invalid CSS after "@each ": expected "$", was "value in $swatc...")
+2013-09-09 13:16:18 identical stylesheets/imports.css 
+2013-09-09 13:16:48 overwrite stylesheets/imports.css 
+2013-09-09 13:17:11 identical stylesheets/imports.css 
+2013-09-09 13:17:14 identical stylesheets/imports.css 
+2013-09-09 13:17:20 identical stylesheets/imports.css 
+2013-09-09 13:17:27 overwrite stylesheets/imports.css 
+2013-09-09 13:17:29 overwrite stylesheets/imports.css 
+2013-09-09 13:18:34     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: List index 0 must be greater than or equal to 1 for `nth')
+2013-09-09 13:18:34 overwrite stylesheets/imports.css 
+2013-09-09 13:18:39     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: List index 0 must be greater than or equal to 1 for `nth')
+2013-09-09 13:18:39 identical stylesheets/imports.css 
+2013-09-09 13:18:41     error sass/imports.scss (Line 5 of sass/source/helpers/colors/_colors.scss: List index 0 must be greater than or equal to 1 for `nth')
+2013-09-09 13:18:41 identical stylesheets/imports.css 
+2013-09-09 13:18:47 overwrite stylesheets/imports.css 
+2013-09-09 13:18:48 identical stylesheets/imports.css 
+2013-09-09 13:19:35 identical stylesheets/imports.css 
+2013-09-09 13:19:51 identical stylesheets/imports.css 
+2013-09-09 13:20:03 overwrite stylesheets/imports.css 
+2013-09-09 13:20:44 overwrite stylesheets/imports.css 
+2013-09-09 13:22:38 overwrite stylesheets/imports.css 
+2013-09-09 13:22:45 identical stylesheets/imports.css 
+2013-09-09 13:24:41 overwrite stylesheets/imports.css 
+2013-09-09 13:24:51 overwrite stylesheets/imports.css 
+2013-09-09 13:24:59 identical stylesheets/imports.css 
+2013-09-09 13:25:03 identical stylesheets/imports.css 
+2013-09-09 13:25:38 overwrite stylesheets/imports.css 
+2013-09-09 13:26:03 overwrite stylesheets/imports.css 
+2013-09-09 13:26:18 overwrite stylesheets/imports.css 
+2013-09-09 13:26:27 overwrite stylesheets/imports.css 
+2013-09-09 13:27:17 identical stylesheets/imports.css 
+2013-09-09 13:28:08 identical stylesheets/imports.css 
+2013-09-09 13:28:42     error sass/imports.scss (Line 15 of sass/source/helpers/colors/_colors.scss: List index is 3 but list is only 2 items long for `nth')
+2013-09-09 13:28:42 overwrite stylesheets/imports.css 
+2013-09-09 13:28:45 overwrite stylesheets/imports.css 
+2013-09-09 13:29:23 identical stylesheets/imports.css 
+2013-09-09 13:30:39 identical stylesheets/imports.css 
+2013-09-09 13:32:15 identical stylesheets/imports.css 
+2013-09-09 13:32:41 identical stylesheets/imports.css 
+2013-09-09 13:32:48 overwrite stylesheets/imports.css 
+2013-09-09 13:33:02 overwrite stylesheets/imports.css 
+2013-09-09 13:33:46     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:33:46 overwrite stylesheets/imports.css 
+2013-09-09 13:33:47     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:33:47 overwrite stylesheets/imports.css 
+2013-09-09 13:33:52     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:33:52 overwrite stylesheets/imports.css 
+2013-09-09 13:33:53     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:33:53 overwrite stylesheets/imports.css 
+2013-09-09 13:34:28     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:34:28 overwrite stylesheets/imports.css 
+2013-09-09 13:34:43     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:34:43 identical stylesheets/imports.css 
+2013-09-09 13:35:04     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:35:04 identical stylesheets/imports.css 
+2013-09-09 13:35:07     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:35:07 identical stylesheets/imports.css 
+2013-09-09 13:35:28     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:35:28 identical stylesheets/imports.css 
+2013-09-09 13:35:52     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:35:52 overwrite stylesheets/imports.css 
+2013-09-09 13:35:53     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:35:53 overwrite stylesheets/imports.css 
+2013-09-09 13:35:57     error sass/imports.scss (Line 93: File to import not found or unreadable: source/helpers/colors/_colors.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 13:35:57 overwrite stylesheets/imports.css 
+2013-09-09 13:36:08 overwrite stylesheets/imports.css 
+2013-09-09 13:36:59 identical stylesheets/imports.css 
+2013-09-09 13:37:07 identical stylesheets/imports.css 
+2013-09-09 13:37:23 overwrite stylesheets/imports.css 
+2013-09-09 13:37:48 overwrite stylesheets/imports.css 
+2013-09-09 13:37:56 overwrite stylesheets/imports.css 
+2013-09-09 13:38:26 overwrite stylesheets/imports.css 
+2013-09-09 14:08:30 identical stylesheets/imports.css 
+2013-09-09 14:09:24 overwrite stylesheets/imports.css 
+2013-09-09 14:09:39     error sass/imports.scss (Line 15 of sass/source/helpers/swatches/_swatches.scss: List index is 5 but list is only 4 items long for `nth')
+2013-09-09 14:09:39 overwrite stylesheets/imports.css 
+2013-09-09 14:09:44 overwrite stylesheets/imports.css 
+2013-09-09 14:10:00 identical stylesheets/imports.css 
+2013-09-09 14:10:33 overwrite stylesheets/imports.css 
+2013-09-09 14:11:09 overwrite stylesheets/imports.css 
+2013-09-09 14:13:54 identical stylesheets/imports.css 
+2013-09-09 14:14:41 overwrite stylesheets/imports.css 
+2013-09-09 14:15:46     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_well.scss: Undefined variable: "$well-color".)
+2013-09-09 14:15:46 overwrite stylesheets/imports.css 
+2013-09-09 14:15:48     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_well.scss: Undefined variable: "$well-color".)
+2013-09-09 14:15:48 overwrite stylesheets/imports.css 
+2013-09-09 14:16:25     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_well.scss: Undefined variable: "$well-color".)
+2013-09-09 14:16:25 identical stylesheets/imports.css 
+2013-09-09 14:16:40     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_well.scss: Undefined variable: "$well-shadow-color".)
+2013-09-09 14:16:40 overwrite stylesheets/imports.css 
+2013-09-09 14:16:48 overwrite stylesheets/imports.css 
+2013-09-09 14:16:51 identical stylesheets/imports.css 
+2013-09-09 14:17:21     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_plate.scss: Undefined variable: "$plate-shadow-color".)
+2013-09-09 14:17:21 overwrite stylesheets/imports.css 
+2013-09-09 14:17:33     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_plate.scss: Undefined variable: "$plate-shadow-color".)
+2013-09-09 14:17:33 identical stylesheets/imports.css 
+2013-09-09 14:17:58     error sass/imports.scss (Line 11 of sass/source/com/box/skins/_plate.scss: Undefined variable: "$plate-shadow-color".)
+2013-09-09 14:17:58 identical stylesheets/imports.css 
+2013-09-09 14:18:00 overwrite stylesheets/imports.css 
+2013-09-09 14:18:26 overwrite stylesheets/imports.css 
+2013-09-09 14:19:23 overwrite stylesheets/imports.css 
+2013-09-09 14:19:27 overwrite stylesheets/imports.css 
+2013-09-09 14:20:03 identical stylesheets/imports.css 
+2013-09-09 14:21:09 identical stylesheets/imports.css 
+2013-09-09 14:21:54 overwrite stylesheets/imports.css 
+2013-09-09 14:22:11 overwrite stylesheets/imports.css 
+2013-09-09 14:25:27 overwrite stylesheets/imports.css 
+2013-09-09 14:25:36 identical stylesheets/imports.css 
+2013-09-09 14:25:53 overwrite stylesheets/imports.css 
+2013-09-09 14:27:21 overwrite stylesheets/imports.css 
+2013-09-09 14:27:54 overwrite stylesheets/imports.css 
+2013-09-09 14:28:36 overwrite stylesheets/imports.css 
+2013-09-09 14:29:36 overwrite stylesheets/imports.css 
+2013-09-09 14:29:48 overwrite stylesheets/imports.css 
+2013-09-09 14:29:59 overwrite stylesheets/imports.css 
+2013-09-09 14:30:53 overwrite stylesheets/imports.css 
+2013-09-09 14:30:59 overwrite stylesheets/imports.css 
+2013-09-09 14:31:06 identical stylesheets/imports.css 
+2013-09-09 14:31:30 overwrite stylesheets/imports.css 
+2013-09-09 14:31:44 overwrite stylesheets/imports.css 
+2013-09-09 14:31:47 identical stylesheets/imports.css 
+2013-09-09 14:32:14 overwrite stylesheets/imports.css 
+2013-09-09 14:32:17 identical stylesheets/imports.css 
+2013-09-09 14:34:24     error sass/imports.scss (Line 11 of sass/source/com/media/_media.scss: Invalid CSS after "		@extend:": expected pseudoclass or pseudoelement, was " %clearfix;")
+2013-09-09 14:34:24 overwrite stylesheets/imports.css 
+2013-09-09 14:35:42 overwrite stylesheets/imports.css 
+2013-09-09 14:35:47 identical stylesheets/imports.css 
+2013-09-09 14:36:23 overwrite stylesheets/imports.css 
+2013-09-09 14:36:35 overwrite stylesheets/imports.css 
+2013-09-09 14:36:56 overwrite stylesheets/imports.css 
+2013-09-09 14:38:30 overwrite stylesheets/imports.css 
+2013-09-09 14:38:44 identical stylesheets/imports.css 
+2013-09-09 14:39:33 identical stylesheets/imports.css 
+2013-09-09 14:39:48 overwrite stylesheets/imports.css 
+2013-09-09 14:40:03 overwrite stylesheets/imports.css 
+2013-09-09 14:40:50 identical stylesheets/imports.css 
+2013-09-09 14:41:02 overwrite stylesheets/imports.css 
+2013-09-09 14:41:20 overwrite stylesheets/imports.css 
+2013-09-09 14:41:29 identical stylesheets/imports.css 
+2013-09-09 14:42:26 overwrite stylesheets/imports.css 
+2013-09-09 14:42:30 overwrite stylesheets/imports.css 
+2013-09-09 14:42:33 overwrite stylesheets/imports.css 
+2013-09-09 14:42:38 overwrite stylesheets/imports.css 
+2013-09-09 14:43:14 overwrite stylesheets/imports.css 
+2013-09-09 14:43:57 overwrite stylesheets/imports.css 
+2013-09-09 14:44:00 identical stylesheets/imports.css 
+2013-09-09 14:44:05 identical stylesheets/imports.css 
+2013-09-09 14:44:18 overwrite stylesheets/imports.css 
+2013-09-09 14:44:27 overwrite stylesheets/imports.css 
+2013-09-09 14:44:30 identical stylesheets/imports.css 
+2013-09-09 14:44:38 identical stylesheets/imports.css 
+2013-09-09 14:45:11 overwrite stylesheets/imports.css 
+2013-09-09 14:45:16     error sass/imports.scss (Line 69: File to import not found or unreadable: source/com/btn/skins/_pill.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 14:45:16 overwrite stylesheets/imports.css 
+2013-09-09 14:45:27     error sass/imports.scss (Line 69: File to import not found or unreadable: source/com/btn/skins/_pill.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 14:45:27 overwrite stylesheets/imports.css 
+2013-09-09 14:45:51 overwrite stylesheets/imports.css 
+2013-09-09 14:46:06 identical stylesheets/imports.css 
+2013-09-09 14:46:20 identical stylesheets/imports.css 
+2013-09-09 14:46:30 identical stylesheets/imports.css 
+2013-09-09 14:47:08 overwrite stylesheets/imports.css 
+2013-09-09 14:47:51     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:47:51 overwrite stylesheets/imports.css 
+2013-09-09 14:48:19     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:48:19 identical stylesheets/imports.css 
+2013-09-09 14:48:52     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:48:52 identical stylesheets/imports.css 
+2013-09-09 14:48:54     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:48:54 identical stylesheets/imports.css 
+2013-09-09 14:48:55     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:48:55 identical stylesheets/imports.css 
+2013-09-09 14:49:12     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:49:12 identical stylesheets/imports.css 
+2013-09-09 14:49:13     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:49:13 identical stylesheets/imports.css 
+2013-09-09 14:49:19     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:49:19 identical stylesheets/imports.css 
+2013-09-09 14:49:25     error sass/imports.scss (Line 15 of sass/source/com/grid/_grid.scss: Undefined variable: "$grid-max-width".)
+2013-09-09 14:49:25 identical stylesheets/imports.css 
+2013-09-09 14:49:35 overwrite stylesheets/imports.css 
+2013-09-09 14:50:24 overwrite stylesheets/imports.css 
+2013-09-09 14:50:48 overwrite stylesheets/imports.css 
+2013-09-09 14:50:54 overwrite stylesheets/imports.css 
+2013-09-09 14:51:03 overwrite stylesheets/imports.css 
+2013-09-09 14:51:12 overwrite stylesheets/imports.css 
+2013-09-09 14:51:24 overwrite stylesheets/imports.css 
+2013-09-09 14:51:33 identical stylesheets/imports.css 
+2013-09-09 14:53:49     error sass/imports.scss (Line 19 of sass/source/type/_tables.scss: Invalid CSS after "        text-align": expected ";", was ": left;")
+2013-09-09 14:53:49 overwrite stylesheets/imports.css 
+2013-09-09 14:53:51 overwrite stylesheets/imports.css 
+2013-09-09 14:54:26 overwrite stylesheets/imports.css 
+2013-09-09 14:54:27 identical stylesheets/imports.css 
+2013-09-09 14:55:14 identical stylesheets/imports.css 
+2013-09-09 14:55:51 overwrite stylesheets/imports.css 
+2013-09-09 14:55:56 identical stylesheets/imports.css 
+2013-09-09 14:56:32 overwrite stylesheets/imports.css 
+2013-09-09 14:56:51 overwrite stylesheets/imports.css 
+2013-09-09 14:57:09 overwrite stylesheets/imports.css 
+2013-09-09 14:57:20 identical stylesheets/imports.css 
+2013-09-09 14:58:23 overwrite stylesheets/imports.css 
+2013-09-09 14:58:46     error sass/imports.scss (Line 14 of sass/source/com/data/_data.scss: Invalid CSS after "	.data td.": expected class name, was "{")
+2013-09-09 14:58:46 overwrite stylesheets/imports.css 
+2013-09-09 14:59:12 overwrite stylesheets/imports.css 
+2013-09-09 15:00:06 overwrite stylesheets/imports.css 
+2013-09-09 15:00:27 overwrite stylesheets/imports.css 
+2013-09-09 15:00:50 overwrite stylesheets/imports.css 
+2013-09-09 15:01:08 overwrite stylesheets/imports.css 
+2013-09-09 15:01:12 overwrite stylesheets/imports.css 
+2013-09-09 15:01:18 overwrite stylesheets/imports.css 
+2013-09-09 15:01:24 overwrite stylesheets/imports.css 
+2013-09-09 15:01:29 overwrite stylesheets/imports.css 
+2013-09-09 15:03:05 overwrite stylesheets/imports.css 
+2013-09-09 15:03:41 overwrite stylesheets/imports.css 
+2013-09-09 15:03:53 identical stylesheets/imports.css 
+2013-09-09 15:03:57 identical stylesheets/imports.css 
+2013-09-09 15:04:27 identical stylesheets/imports.css 
+2013-09-09 15:04:32 identical stylesheets/imports.css 
+2013-09-09 15:06:14 identical stylesheets/imports.css 
+2013-09-09 15:07:00 overwrite stylesheets/imports.css 
+2013-09-09 15:07:03 identical stylesheets/imports.css 
+2013-09-09 15:07:08 identical stylesheets/imports.css 
+2013-09-09 15:07:09 identical stylesheets/imports.css 
+2013-09-09 15:07:38 overwrite stylesheets/imports.css 
+2013-09-09 15:07:41 identical stylesheets/imports.css 
+2013-09-09 15:07:56 overwrite stylesheets/imports.css 
+2013-09-09 15:08:11 overwrite stylesheets/imports.css 
+2013-09-09 15:08:17 overwrite stylesheets/imports.css 
+2013-09-09 15:08:27 identical stylesheets/imports.css 
+2013-09-09 15:09:12 overwrite stylesheets/imports.css 
+2013-09-09 15:09:20 overwrite stylesheets/imports.css 
+2013-09-09 15:09:27 overwrite stylesheets/imports.css 
+2013-09-09 15:10:00 overwrite stylesheets/imports.css 
+2013-09-09 15:10:14 overwrite stylesheets/imports.css 
+2013-09-09 15:10:21 overwrite stylesheets/imports.css 
+2013-09-09 15:11:21 overwrite stylesheets/imports.css 
+2013-09-09 15:11:29 overwrite stylesheets/imports.css 
+2013-09-09 15:11:35 identical stylesheets/imports.css 
+2013-09-09 15:12:08 identical stylesheets/imports.css 
+2013-09-09 15:12:39 identical stylesheets/imports.css 
+2013-09-09 15:13:38 identical stylesheets/imports.css 
+2013-09-09 15:13:54 identical stylesheets/imports.css 
+2013-09-09 15:14:35 identical stylesheets/imports.css 
+2013-09-09 15:14:53 identical stylesheets/imports.css 
+2013-09-09 15:15:08 identical stylesheets/imports.css 
+2013-09-09 15:15:09 identical stylesheets/imports.css 
+2013-09-09 15:15:23 identical stylesheets/imports.css 
+2013-09-09 15:15:42 identical stylesheets/imports.css 
+2013-09-09 15:15:44 identical stylesheets/imports.css 
+2013-09-09 15:16:06 identical stylesheets/imports.css 
+2013-09-09 15:16:09 identical stylesheets/imports.css 
+2013-09-09 15:16:18 identical stylesheets/imports.css 
+2013-09-09 15:17:03 overwrite stylesheets/imports.css 
+2013-09-09 15:18:05 overwrite stylesheets/imports.css 
+2013-09-09 15:18:09 overwrite stylesheets/imports.css 
+2013-09-09 15:19:02 overwrite stylesheets/imports.css 
+2013-09-09 15:37:33 overwrite stylesheets/imports.css 
+2013-09-09 15:39:39 identical stylesheets/imports.css 
+2013-09-09 15:40:17 identical stylesheets/imports.css 
+2013-09-09 15:40:24 identical stylesheets/imports.css 
+2013-09-09 15:40:27 identical stylesheets/imports.css 
+2013-09-09 15:40:35 overwrite stylesheets/imports.css 
+2013-09-09 15:40:39 overwrite stylesheets/imports.css 
+2013-09-09 15:41:47 identical stylesheets/imports.css 
+2013-09-09 15:42:06 identical stylesheets/imports.css 
+2013-09-09 15:42:14 identical stylesheets/imports.css 
+2013-09-09 15:42:39 identical stylesheets/imports.css 
+2013-09-09 15:42:47 overwrite stylesheets/imports.css 
+2013-09-09 15:42:54 identical stylesheets/imports.css 
+2013-09-09 15:43:09 identical stylesheets/imports.css 
+2013-09-09 15:43:38 overwrite stylesheets/imports.css 
+2013-09-09 15:45:23 overwrite stylesheets/imports.css 
+2013-09-09 15:45:39 identical stylesheets/imports.css 
+2013-09-09 15:45:53 identical stylesheets/imports.css 
+2013-09-09 15:47:17 identical stylesheets/imports.css 
+2013-09-09 15:48:29 overwrite stylesheets/imports.css 
+2013-09-09 15:48:35 overwrite stylesheets/imports.css 
+2013-09-09 15:48:38 identical stylesheets/imports.css 
+2013-09-09 15:48:50 overwrite stylesheets/imports.css 
+2013-09-09 15:48:56 overwrite stylesheets/imports.css 
+2013-09-09 15:49:14 overwrite stylesheets/imports.css 
+2013-09-09 15:49:17 overwrite stylesheets/imports.css 
+2013-09-09 15:49:24 identical stylesheets/imports.css 
+2013-09-09 15:52:08 overwrite stylesheets/imports.css 
+2013-09-09 15:52:27 overwrite stylesheets/imports.css 
+2013-09-09 15:52:35 overwrite stylesheets/imports.css 
+2013-09-09 15:52:57 overwrite stylesheets/imports.css 
+2013-09-09 15:53:12 overwrite stylesheets/imports.css 
+2013-09-09 15:53:50 overwrite stylesheets/imports.css 
+2013-09-09 15:57:06 identical stylesheets/imports.css 
+2013-09-09 15:57:20 overwrite stylesheets/imports.css 
+2013-09-09 16:00:08 identical stylesheets/imports.css 
+2013-09-09 16:00:21 identical stylesheets/imports.css 
+2013-09-09 16:00:41 identical stylesheets/imports.css 
+2013-09-09 16:01:18 overwrite stylesheets/imports.css 
+2013-09-09 16:01:20 identical stylesheets/imports.css 
+2013-09-09 16:01:35 overwrite stylesheets/imports.css 
+2013-09-09 16:01:52     error sass/imports.scss (Line 15 of sass/themes/_default.scss: Colors must have either three or six digits: '#ff')
+2013-09-09 16:01:52 overwrite stylesheets/imports.css 
+2013-09-09 16:01:54 overwrite stylesheets/imports.css 
+2013-09-09 16:01:57 identical stylesheets/imports.css 
+2013-09-09 16:03:15 identical stylesheets/imports.css 
+2013-09-09 16:03:25     error sass/imports.scss (Line 11 of sass/source/com/nav/skins/_pivot.scss: Undefined variable: "$pivot-forecolor".)
+2013-09-09 16:03:25 overwrite stylesheets/imports.css 
+2013-09-09 16:03:59 overwrite stylesheets/imports.css 
+2013-09-09 16:04:05 overwrite stylesheets/imports.css 
+2013-09-09 16:04:06 identical stylesheets/imports.css 
+2013-09-09 16:04:20 identical stylesheets/imports.css 
+2013-09-09 16:04:27 overwrite stylesheets/imports.css 
+2013-09-09 16:04:33 overwrite stylesheets/imports.css 
+2013-09-09 16:04:53 overwrite stylesheets/imports.css 
+2013-09-09 16:05:15 identical stylesheets/imports.css 
+2013-09-09 16:06:20 identical stylesheets/imports.css 
+2013-09-09 16:06:48 overwrite stylesheets/imports.css 
+2013-09-09 16:07:17 overwrite stylesheets/imports.css 
+2013-09-09 16:07:32 overwrite stylesheets/imports.css 
+2013-09-09 16:07:35 identical stylesheets/imports.css 
+2013-09-09 16:08:03     error sass/imports.scss (Line 15 of sass/source/helpers/swatches/_swatches.scss: List index is 9 but list is only 8 items long for `nth')
+2013-09-09 16:08:03 overwrite stylesheets/imports.css 
+2013-09-09 16:08:09 overwrite stylesheets/imports.css 
+2013-09-09 16:08:39 overwrite stylesheets/imports.css 
+2013-09-09 16:08:57 overwrite stylesheets/imports.css 
+2013-09-09 16:10:18 identical stylesheets/imports.css 
+2013-09-09 16:10:42 overwrite stylesheets/imports.css 
+2013-09-09 16:11:33 overwrite stylesheets/imports.css 
+2013-09-09 16:12:44 overwrite stylesheets/imports.css 
+2013-09-09 16:13:38 identical stylesheets/imports.css 
+2013-09-09 16:14:21 overwrite stylesheets/imports.css 
+2013-09-09 16:14:29 overwrite stylesheets/imports.css 
+2013-09-09 16:14:35 overwrite stylesheets/imports.css 
+2013-09-09 16:14:53 overwrite stylesheets/imports.css 
+2013-09-09 16:15:41 overwrite stylesheets/imports.css 
+2013-09-09 16:16:15 overwrite stylesheets/imports.css 
+2013-09-09 16:16:18 identical stylesheets/imports.css 
+2013-09-09 16:16:23 overwrite stylesheets/imports.css 
+2013-09-09 16:16:53 overwrite stylesheets/imports.css 
+2013-09-09 16:17:06 overwrite stylesheets/imports.css 
+2013-09-09 16:18:42 overwrite stylesheets/imports.css 
+2013-09-09 16:19:15 identical stylesheets/imports.css 
+2013-09-09 16:19:18 overwrite stylesheets/imports.css 
+2013-09-09 16:19:26 overwrite stylesheets/imports.css 
+2013-09-09 16:20:51 overwrite stylesheets/imports.css 
+2013-09-09 16:21:06 overwrite stylesheets/imports.css 
+2013-09-09 16:21:14 overwrite stylesheets/imports.css 
+2013-09-09 16:21:20 overwrite stylesheets/imports.css 
+2013-09-09 16:21:35 overwrite stylesheets/imports.css 
+2013-09-09 16:21:38 identical stylesheets/imports.css 
+2013-09-09 16:21:45 overwrite stylesheets/imports.css 
+2013-09-09 16:24:05 overwrite stylesheets/imports.css 
+2013-09-09 16:24:30 overwrite stylesheets/imports.css 
+2013-09-09 16:24:57 overwrite stylesheets/imports.css 
+2013-09-09 16:25:08 identical stylesheets/imports.css 
+2013-09-09 16:26:15 overwrite stylesheets/imports.css 
+2013-09-09 16:26:48 overwrite stylesheets/imports.css 
+2013-09-09 16:27:02 overwrite stylesheets/imports.css 
+2013-09-09 16:28:09 identical stylesheets/imports.css 
+2013-09-09 16:28:24 identical stylesheets/imports.css 
+2013-09-09 16:28:45 identical stylesheets/imports.css 
+2013-09-09 16:36:46     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:46 overwrite stylesheets/imports.css 
+2013-09-09 16:36:46     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:46 identical stylesheets/imports.css 
+2013-09-09 16:36:47     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:47 identical stylesheets/imports.css 
+2013-09-09 16:36:47     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:47 identical stylesheets/imports.css 
+2013-09-09 16:36:47     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:47 overwrite stylesheets/imports.css 
+2013-09-09 16:36:47     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:47 identical stylesheets/imports.css 
+2013-09-09 16:36:47     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:47 identical stylesheets/imports.css 
+2013-09-09 16:36:47     error sass/imports.scss (Line 17: File to import not found or unreadable: source/util/_mixins.scss.
+Load paths:
+  C:/Users/harms/Desktop/Glue/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/harms/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-09-09 16:36:47 identical stylesheets/imports.css 
+2013-09-09 16:36:56 overwrite stylesheets/imports.css 
+2013-09-09 16:37:05 identical stylesheets/imports.css 
+2013-09-09 16:37:27 overwrite stylesheets/imports.css 
+2013-09-09 16:38:03 overwrite stylesheets/imports.css 
+2013-09-09 16:38:08 overwrite stylesheets/imports.css 
+2013-09-09 16:38:20 overwrite stylesheets/imports.css 
+2013-09-09 16:39:29 overwrite stylesheets/imports.css 
+2013-09-09 16:39:32 overwrite stylesheets/imports.css 
+2013-09-09 16:42:09 overwrite stylesheets/imports.css 
+2013-09-09 16:46:54 overwrite stylesheets/imports.css 
+2013-09-09 16:47:18 overwrite stylesheets/imports.css 
+2013-09-09 16:48:41 identical stylesheets/imports.css 

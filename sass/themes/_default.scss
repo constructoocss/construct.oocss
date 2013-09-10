@@ -1,0 +1,112 @@
+// 	=======================================================
+// 	Theme
+// 	=======================================================
+
+// 	Typography
+// 	=======================================================
+
+// 	Base
+// 	-------------------------------------------------------
+
+	$base-font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, Verdana, sans-serif;
+
+	$base-font-size: 16px;
+
+	$base-forecolor: #000;
+
+	$base-backcolor: #fff;
+
+	$base-line-height: 24px;
+
+	$base-border-radius: 4px;
+
+// 	Headings
+// 	-------------------------------------------------------
+
+	$hero-size: 63px;
+
+	$h1-size: 42px;
+
+	$h2-size: 36px;
+
+	$h3-size: 30px;
+
+	$h4-size: 26px;
+
+	$h5-size: 18px;
+
+	$h6-size: 16px;
+
+	$hn-weight: 400;
+
+// 	Paragraphs
+// 	-------------------------------------------------------
+
+	$lead-size: 24px;
+
+// 	Links
+// 	-------------------------------------------------------
+
+	$link-color: #007bc3;
+
+// 	Dividers
+// 	-------------------------------------------------------
+
+	$hr-color: #ccc;
+
+// 	Components
+// 	=======================================================
+
+// 	Grids
+// 	-------------------------------------------------------
+
+	$grid-max-width: 960px;
+
+// 	Box
+// 	-------------------------------------------------------
+	
+	$plate-shadow-color: rgba(0, 0, 0, 0.2);
+
+	$well-shadow-color: rgba(0, 0, 0, 0.2);
+
+// 	Swatches
+// 	=======================================================
+
+	$swatch-classname: 
+	(
+		"white",
+		"black",
+		"gray",
+		"darkgray",
+		"red",
+		"green",
+		"blue",
+		"purple",
+		"orange"
+	);
+
+	$swatch-backcolor: 
+	(
+		#fff,
+		#000,
+		#eee,
+		#888,
+		#ED1846,
+		#7AAB32,
+		#009BDA,
+		#76348D,
+		#CC6D1B
+	);		
+
+	$swatch-forecolor: 
+	(
+		#000,
+		#fff,
+		#000,
+		#000,
+		#fff,
+		#fff,		
+		#fff,
+		#fff,
+		#fff
+	);	

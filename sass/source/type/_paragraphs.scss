@@ -1,0 +1,15 @@
+@if $use-lead-unit == true {
+
+/* Paragraphs
+   ======================================================== */
+
+/**
+ * A larger line-height is used so wrapping text appears less crammed.
+ */
+
+    .lead
+    {
+        @include fontsize($lead-size, $base-line-height * 1.5);
+    }    
+
+}

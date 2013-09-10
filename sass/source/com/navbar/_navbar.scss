@@ -1,0 +1,39 @@
+@if $use-navbar == true and $use-nav == true and $use-link == true {
+
+/* @Navbar (object)
+   ======================================================== */
+
+// B
+// --------------------------------------------------------
+
+	.navbar
+	{
+		@extend %clearfix;
+
+		@extend %margin--b;
+
+		@extend %size--s;
+	
+		@extend .box--s;
+
+		@extend .list;
+	}
+
+	.navbar .nav
+	{
+		margin: 0; 
+	}
+
+// E
+// --------------------------------------------------------
+
+	.navbar__title
+	{
+		@extend .link--pseudo;
+	}
+
+// M
+// --------------------------------------------------------
+
+
+}

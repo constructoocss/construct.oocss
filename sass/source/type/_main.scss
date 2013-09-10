@@ -1,0 +1,28 @@
+/* Main
+   ======================================================== */
+
+/* Html
+   -------------------------------------------------------- */
+
+	html 
+	{
+		overflow-y: scroll;
+
+		min-height: 100%;
+	}
+
+/* Body
+   -------------------------------------------------------- */
+	
+	body 
+	{
+		font-family: $base-font-family;
+
+		font-size: $base-font-size;
+
+		line-height: $base-line-height;	
+
+		color: $base-forecolor;
+
+		background: $base-backcolor;
+	}

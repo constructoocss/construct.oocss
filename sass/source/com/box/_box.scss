@@ -1,0 +1,43 @@
+@if $use-box == true {
+
+/* @Box (object)
+   ======================================================== */
+   
+// B
+// --------------------------------------------------------
+
+	.box
+	{
+		@extend %margin--b;
+
+		@extend %padding--m;
+
+		@extend %clearfix;		
+	}
+
+// E
+// --------------------------------------------------------
+
+/**
+ * Microsoft Internet Explorer 8 does not support last-child.
+ */
+
+	.box__last
+	{
+		margin-bottom: 0;
+	}
+
+// M
+// --------------------------------------------------------
+	
+	.box--s
+	{
+		@extend %padding--s;
+	}
+
+	.box--l
+	{
+		@extend %padding--l;
+	}
+
+}

@@ -1,0 +1,25 @@
+/* Reset
+   ======================================================== */
+
+/* Html
+   -------------------------------------------------------- */	
+
+/**
+ * Always use the vendor prefixes when changing the box-sizing.
+ */
+
+	html *
+	{
+		@include vendor(box-sizing, border-box, true);
+	}
+
+/* Margins
+   -------------------------------------------------------- */	
+
+	h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, ul, ol, dl, dd, form, fieldset, legend, table, th, td, caption
+	{
+		margin: 0;
+
+		padding: 0;
+	}
+   

@@ -1,0 +1,34 @@
+@if $use-data == true {
+
+/* @Data (object)
+   ======================================================== */
+
+// B
+// --------------------------------------------------------
+
+	.data td
+	{
+		border-top: 1px dotted $hr-color;
+	}
+
+/**
+ * 	Useful if you want to remove the top border for when there is no thead.
+ */
+	
+	.data__first td
+	{
+		border-top: 0;
+	}
+
+// E
+// --------------------------------------------------------
+
+// M
+// --------------------------------------------------------
+
+	.data--zebra tbody tr:nth-child(odd) td
+	{
+		background: lighten($hr-color, 10%);
+	}
+
+}

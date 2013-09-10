@@ -1,0 +1,63 @@
+@if $use-nav == true {
+
+/* @Nav (object)
+   ======================================================== */
+
+// B
+// --------------------------------------------------------
+
+	.nav
+	{
+		@extend %clearfix;
+
+		@extend %margin--b;
+
+		margin-left: 0;
+
+		padding-left: 0;
+
+		list-style:	none; 
+	}
+
+// E
+// --------------------------------------------------------
+
+	.nav__item 
+	{		
+		float: left; 
+
+		margin-left: $base-line-height;
+	}
+	
+	.nav__item--active
+	{
+		@extend %weight--bold;	
+	}
+
+	.nav__link 
+	{
+		display: block;
+
+		color: inherit;
+
+		text-decoration: none; 
+	}
+
+// M
+// --------------------------------------------------------
+
+	.nav--right 
+	{
+		float: right; 
+	}
+
+	.nav--stack .nav__item
+	{
+		float: none;
+
+		margin-left: 0;
+
+		margin-top: 24px;		
+	}
+
+}

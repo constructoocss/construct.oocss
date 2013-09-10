@@ -1,0 +1,46 @@
+@if $use-media == true {
+
+/* @Media (object)
+   ======================================================== */
+
+// B
+// --------------------------------------------------------
+
+	.media
+	{
+		@extend %clearfix;
+	}
+
+// E
+// --------------------------------------------------------
+
+	.media__image
+	{
+		@extend %margin--r;
+
+		float: left;
+	}
+
+	.media__image img
+	{
+		display: block;
+	}
+
+	.media__body
+	{
+		overflow: hidden;
+	}
+
+// M
+// --------------------------------------------------------
+
+	.media--r .media__image
+	{
+		@extend %margin--l;
+
+		margin-right: 0;
+
+		float: right;
+	}
+	
+}

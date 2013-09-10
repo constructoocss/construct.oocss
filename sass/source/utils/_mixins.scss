@@ -1,0 +1,38 @@
+// 	Mixins
+// 	=======================================================
+
+// 	Fontsize
+// 	-------------------------------------------------------
+
+	@mixin fontsize($font-size, $line-height: $base-line-height)
+	{
+		font-size: $font-size;
+
+		@if $use-line-height == true {
+
+			line-height: ceil($font-size / $line-height) * ($line-height / $font-size);
+
+		}
+		
+	}
+
+// 	Vendor
+// 	-------------------------------------------------------
+
+	@mixin vendor($property, $value, $use-prefix: $use-vendor-prefix)
+	{
+		@if $use-prefix == true {
+
+		-webkit-#{$property}: $value;
+
+ 		   -moz-#{$property}: $value;
+
+ 		    -ms-#{$property}: $value;
+
+ 		     -o-#{$property}: $value;
+	    }
+
+ 		        #{$property}: $value;
+ 		        	    
+	}	
+

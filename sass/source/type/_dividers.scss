@@ -1,0 +1,11 @@
+/* Dividers
+   ======================================================== */
+
+	hr 
+	{
+ 		border: none;
+  
+  		border-bottom: 1px solid $hr-color;
+
+		margin-bottom: $base-line-height - 1px;
+	}

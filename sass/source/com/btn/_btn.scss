@@ -1,0 +1,50 @@
+@if $use-btn == true {
+
+/* @Btn (object)
+   ======================================================== */
+
+// B
+// --------------------------------------------------------
+
+	.btn
+	{
+		@extend %padding--s;
+
+		@extend %radius--m;
+
+		display: inline-block;
+
+		border: 0;
+
+		outline: 0;
+
+		line-height: normal;
+
+		white-space: nowrap;
+
+		text-align: center;
+
+		vertical-align: middle;
+
+		cursor: pointer;	
+	}
+
+	.btn, .btn:active
+	{
+		text-decoration: none;
+	}
+
+// E
+// --------------------------------------------------------
+
+// M
+// --------------------------------------------------------
+
+	.btn--block
+	{
+		padding: $base-line-height * 1.5;
+
+		width: 100%;
+	}
+
+}

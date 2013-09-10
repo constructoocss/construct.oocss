@@ -1,0 +1,41 @@
+$index: 1;
+
+@each $value in $swatch-classname {
+
+/* #{$value} (swatch)
+   ======================================================== */
+
+// 	B
+// 	-------------------------------------------------------
+
+	.#{$value}
+	{
+		background: nth($swatch-backcolor, $index);
+
+		     color: nth($swatch-forecolor, $index);
+	}
+
+	.#{$value}.btn:active
+	{
+		background: darken(nth($swatch-backcolor, $index), 10%);
+	}
+
+	.#{$value}.chat:after
+	{
+		border-top: $base-line-height / 2 solid nth($swatch-backcolor, $index);
+	}
+
+// 	M
+// 	-------------------------------------------------------
+
+	.#{$value}--text
+	{
+		color: nth($swatch-backcolor, $index);
+	}
+
+// 	Increment
+// 	-------------------------------------------------------
+
+	$index: $index + 1;
+
+}

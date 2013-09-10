@@ -1,0 +1,24 @@
+@if $use-pivot == true {
+
+/* @Media (object)
+   ======================================================== */
+
+// B
+// --------------------------------------------------------
+
+// E
+// --------------------------------------------------------
+
+/**
+ * Use a hn size and [swatch]--text on the .pivot block to render it correctly.
+ */
+
+	.pivot .nav__link:hover, .pivot .nav__item--active
+	{
+		color: $base-forecolor;
+	}
+
+// M
+// --------------------------------------------------------
+
+}
