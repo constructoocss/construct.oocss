@@ -1,0 +1,44 @@
+@if $use-opaque == true {
+
+/* @Opaque (skin)
+   ======================================================== */
+
+/**
+ * Used to make the box opaque. Great for tooltips and docked navbars
+ *
+ * Example:
+ *
+ * <div class="gray plate box">
+ *
+ *		<h1>
+ *			About the Fox
+ *		</h1>
+ *
+ * 		<p class="box__last">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+
+// B
+// --------------------------------------------------------
+	
+	.opaque
+	{
+		zoom: 1;
+
+		opacity: .9;
+
+		filter: alpha(opacity=90);
+	}
+
+// E
+// --------------------------------------------------------
+
+// M
+// --------------------------------------------------------
+	
+}
