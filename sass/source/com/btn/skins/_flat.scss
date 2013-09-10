@@ -4,7 +4,7 @@
    ======================================================== */
 
 /**
- * Used to create pill buttons with a larger border-radius.
+ * Used to create flat buttons without a border-radius.
  *
  * Example:
  *
@@ -17,10 +17,6 @@
 
 // B
 // --------------------------------------------------------
-
-/**
- * Can not extend %radius--n due to the cascade.
- */
 
 	.flat
 	{

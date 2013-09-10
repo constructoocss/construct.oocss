@@ -1,14 +1,14 @@
-@if $use-pivot == true {
+@if $use-block == true and $use-nav == true and $use-link == true {
 
-/* @Pivot (skin)
+/* @Block (skin)
    ======================================================== */
 
 /**
- * Used to create pivot tabs. 
+ * Used to create block navigation with lines between items.
  *
  * Example:
  *
- * <ul class="h4 pivot nav">
+ * <ul class="block nav">
  *
  * 		<li class="nav__item nav__item--active">	
  *			
@@ -36,17 +36,32 @@
 // B
 // --------------------------------------------------------
 
-	.pivot
+/**
+ * Block navigations are always stacked.
+ */
+
+	.block
 	{
-		color: $pivot-forecolor;
+		@extend .nav--stack;
+
+		margin-bottom: $base-line-height / 2;
 	}
 
 // E
 // --------------------------------------------------------
 
-	.pivot .nav__link:hover, .pivot .nav__item--active
+	.block .nav__item
 	{
-		color: $base-forecolor;
+		margin: 0;
+
+		border-top: 1px dotted $hr-color;
+	}
+
+	.block .nav__link
+	{
+		@extend .link--pseudo;
+
+		margin: $base-line-height / 2 0;
 	}
 
 // M

@@ -1,4 +1,4 @@
-@if $use-list == true {
+@if $use-list == true and $use-nav == true and $use-link == true {
 
 /* @List (skin)
    ======================================================== */
@@ -41,7 +41,7 @@
 
 	.list .nav__link:hover
 	{
-		text-decoration: underline;
+		@extend .link--pseudo;
 	}
 
 // M

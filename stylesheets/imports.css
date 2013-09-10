@@ -419,126 +419,6 @@ label {
 .box__last {
   margin-bottom: 0; }
 
-/* @Chat (skin)
-   ======================================================== */
-/**
- * Used to create a chat box with a speech arrow.
- *
- * Example:
- *
- * <div class="gray chat box">
- *
- *		<h1>
- *			I jumped over the lazy dog.
- *		</h1>
- *
- * 		<p class="box__last">
- *
- *			- Quick brown Fox
- *
- *		</p>
- *
- * </div>
- */
-.chat {
-  position: relative; }
-
-.chat:after {
-  position: absolute;
-  content: "";
-  bottom: -12px;
-  left: 24px;
-  border-left: 12px solid transparent;
-  border-right: 12px solid transparent; }
-
-.chat--r:after {
-  left: auto;
-  right: 24px; }
-
-/* @Plate (skin)
-   ======================================================== */
-/**
- * Used to create a box with a outset effect.
- *
- * Example:
- *
- * <div class="gray plate box">
- *
- *		<h1>
- *			About the Fox
- *		</h1>
- *
- * 		<p class="box__last">
- *
- *			The quick brown fox jumped over the lazy dog.
- *
- *		</p>
- *
- * </div>
- */
-.plate {
-  -webkit-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-  -ms-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-  -o-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-  box-shadow: 1px 1px rgba(0, 0, 0, 0.2); }
-
-/* @Round (skin)
-   ======================================================== */
-/**
- * Used to create a box with rounded corners.
- *
- * Example:
- *
- * <div class="gray round box">
- *
- *		<h1>
- *			About the Fox
- *		</h1>
- *
- * 		<p class="box__last">
- *
- *			The quick brown fox jumped over the lazy dog.
- *
- *		</p>
- *
- * </div>
- */
-.round {
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  -o-border-radius: 4px;
-  border-radius: 4px; }
-
-/* @Well (skin)
-   ======================================================== */
-/**
- * Used to create a box with a inset effect.
- *
- * Example:
- *
- * <div class="gray well box">
- *
- *		<h1>
- *			About the Fox
- *		</h1>
- *
- * 		<p class="box__last">
- *
- *			The quick brown fox jumped over the lazy dog.
- *
- *		</p>
- *
- * </div>
- */
-.well {
-  -webkit-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
-  -ms-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
-  -o-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
-  box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2); }
-
 /* @Btn (object)
    ======================================================== */
 /**
@@ -568,29 +448,6 @@ label {
 .btn--block {
   padding: 36px;
   width: 100%; }
-
-/* @Flat (skin)
-   ======================================================== */
-/**
- * Used to create pill buttons with a larger border-radius.
- *
- * Example:
- *
- * <a class="blue pill btn" href="#">
- *
- * 		Submit	
- *
- * </a>
- */
-/**
- * Can not extend %radius--n due to the cascade.
- */
-.flat {
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  -ms-border-radius: 0;
-  -o-border-radius: 0;
-  border-radius: 0; }
 
 /* @Data (object)
    ======================================================== */
@@ -771,19 +628,6 @@ label {
   padding: 0 12px;
   text-align: center; }
 
-/* @Badge (skin)
-   ======================================================== */
-/**
- * Used to create inline badges.
- *
- * Example:
- *
- * <p>
- *
- * 		The quick brown fox jumped over the lazy dog <span class="blue badge label">5</span> times.
- *
- * </p>
- */
 /* @Media (object)
    ======================================================== */
 /**
@@ -876,78 +720,10 @@ label {
 .nav--right {
   float: right; }
 
-.nav--stack .nav__item {
+.nav--stack .nav__item, .block .nav__item {
   float: none;
   margin-left: 0;
   margin-top: 24px; }
-
-/* @List (skin)
-   ======================================================== */
-/**
- * Used to create navigation lists.
- *
- * Example:
- *
- * <ul class="list nav">
- *
- * 		<li class="nav__item nav__item--active">	
- *			
- *			<a class="nav__link">
- *					
- *				Item 1
- *
- *			<a>
- *				
- *		</li>
- *
- *		<li class="nav__item">	
- *
- *			<a class="nav__link">
- *			
- *				Item 2
- *
- * 			</a>	
- *
- *		</li>
- *
- * </ul>
- */
-.list .nav__link:hover, .navbar .nav__link:hover {
-  text-decoration: underline; }
-
-/* @Pivot (skin)
-   ======================================================== */
-/**
- * Used to create pivot tabs. Use a heading class and a color swatch to render it.
- *
- * Example:
- *
- * <ul class="h4 gray--text pivot nav">
- *
- * 		<li class="nav__item nav__item--active">	
- *			
- *			<a class="nav__link">
- *					
- *				Item 1
- *
- *			<a>
- *				
- *		</li>
- *
- *		<li class="nav__item">	
- *
- *			<a class="nav__link">
- *			
- *				Item 2
- *
- * 			</a>	
- *
- *		</li>
- *
- * </ul>
- */
-.pivot .nav__link:hover, .pivot .nav__item--active {
-  color: black; }
 
 /* @Navbar (object)
    ======================================================== */
@@ -985,6 +761,274 @@ label {
  */
 .navbar .nav {
   margin: 0; }
+
+/* ========================================================
+   Skins
+   ======================================================== */
+/* @Chat (skin)
+   ======================================================== */
+/**
+ * Used to create a chat box with a speech arrow.
+ *
+ * Example:
+ *
+ * <div class="gray chat box">
+ *
+ *		<h1>
+ *			I jumped over the lazy dog.
+ *		</h1>
+ *
+ * 		<p class="box__last">
+ *
+ *			- Quick brown Fox
+ *
+ *		</p>
+ *
+ * </div>
+ */
+.chat {
+  position: relative; }
+
+.chat:after {
+  position: absolute;
+  content: "";
+  bottom: -12px;
+  left: 24px;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent; }
+
+.chat--r:after {
+  left: auto;
+  right: 24px; }
+
+/* @Plate (skin)
+   ======================================================== */
+/**
+ * Used to create a box with a outset effect.
+ *
+ * Example:
+ *
+ * <div class="gray plate box">
+ *
+ *		<h1>
+ *			About the Fox
+ *		</h1>
+ *
+ * 		<p class="box__last">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+.plate {
+  -webkit-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 1px rgba(0, 0, 0, 0.2); }
+
+/* @Round (skin)
+   ======================================================== */
+/**
+ * Used to create a box with rounded corners.
+ *
+ * Example:
+ *
+ * <div class="gray round box">
+ *
+ *		<h1>
+ *			About the Fox
+ *		</h1>
+ *
+ * 		<p class="box__last">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+.round {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px; }
+
+/* @Well (skin)
+   ======================================================== */
+/**
+ * Used to create a box with a inset effect.
+ *
+ * Example:
+ *
+ * <div class="gray well box">
+ *
+ *		<h1>
+ *			About the Fox
+ *		</h1>
+ *
+ * 		<p class="box__last">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+.well {
+  -webkit-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 2px 2px rgba(0, 0, 0, 0.2); }
+
+/* @Flat (skin)
+   ======================================================== */
+/**
+ * Used to create flat buttons without a border-radius.
+ *
+ * Example:
+ *
+ * <a class="blue pill btn" href="#">
+ *
+ * 		Submit	
+ *
+ * </a>
+ */
+.flat {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0; }
+
+/* @Badge (skin)
+   ======================================================== */
+/**
+ * Used to create inline badges.
+ *
+ * Example:
+ *
+ * <p>
+ *
+ * 		The quick brown fox jumped over the lazy dog <span class="blue badge label">5</span> times.
+ *
+ * </p>
+ */
+/* @Block (skin)
+   ======================================================== */
+/**
+ * Used to create block navigation with lines between items.
+ *
+ * Example:
+ *
+ * <ul class="block nav">
+ *
+ * 		<li class="nav__item nav__item--active">	
+ *			
+ *			<a class="nav__link">
+ *					
+ *				Item 1
+ *
+ *			<a>
+ *				
+ *		</li>
+ *
+ *		<li class="nav__item">	
+ *
+ *			<a class="nav__link">
+ *			
+ *				Item 2
+ *
+ * 			</a>	
+ *
+ *		</li>
+ *
+ * </ul>
+ */
+/**
+ * Block navigations are always stacked.
+ */
+.block {
+  margin-bottom: 12px; }
+
+.block .nav__item {
+  margin: 0;
+  border-top: 1px dotted #cccccc; }
+
+.block .nav__link {
+  margin: 12px 0; }
+
+/* @List (skin)
+   ======================================================== */
+/**
+ * Used to create navigation lists.
+ *
+ * Example:
+ *
+ * <ul class="list nav">
+ *
+ * 		<li class="nav__item nav__item--active">	
+ *			
+ *			<a class="nav__link">
+ *					
+ *				Item 1
+ *
+ *			<a>
+ *				
+ *		</li>
+ *
+ *		<li class="nav__item">	
+ *
+ *			<a class="nav__link">
+ *			
+ *				Item 2
+ *
+ * 			</a>	
+ *
+ *		</li>
+ *
+ * </ul>
+ */
+/* @Pivot (skin)
+   ======================================================== */
+/**
+ * Used to create pivot tabs. 
+ *
+ * Example:
+ *
+ * <ul class="h4 pivot nav">
+ *
+ * 		<li class="nav__item nav__item--active">	
+ *			
+ *			<a class="nav__link">
+ *					
+ *				Item 1
+ *
+ *			<a>
+ *				
+ *		</li>
+ *
+ *		<li class="nav__item">	
+ *
+ *			<a class="nav__link">
+ *			
+ *				Item 2
+ *
+ * 			</a>	
+ *
+ *		</li>
+ *
+ * </ul>
+ */
+.pivot {
+  color: #888888; }
+
+.pivot .nav__link:hover, .pivot .nav__item--active {
+  color: black; }
 
 /* ========================================================
    Helpers
@@ -1065,11 +1109,11 @@ label {
 .link__icon {
   margin-right: 6px; }
 
-.link--pseudo, th a, .navbar__title {
+.link--pseudo, th a, .navbar__title, .block .nav__link, .list .nav__link:hover, .navbar .nav__link:hover {
   color: inherit;
   text-decoration: none; }
 
-.link--pseudo:hover, th a:hover, .navbar__title:hover {
+.link--pseudo:hover, th a:hover, .navbar__title:hover, .block .nav__link:hover, .list .nav__link:hover, .navbar .nav__link:hover {
   text-decoration: underline; }
 
 /* @Rule (object)
@@ -1137,21 +1181,6 @@ label {
 
 .gray--text {
   color: #eeeeee; }
-
-/* darkgray (swatch)
-   ======================================================== */
-.darkgray {
-  background: #888888;
-  color: black; }
-
-.darkgray.btn:active {
-  background: #6f6f6f; }
-
-.darkgray.chat:after {
-  border-top: 12px solid #888888; }
-
-.darkgray--text {
-  color: #888888; }
 
 /* red (swatch)
    ======================================================== */

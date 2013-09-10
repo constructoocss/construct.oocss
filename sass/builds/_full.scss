@@ -1,4 +1,4 @@
-// 	Typography
+// 	Utilities
 //  =======================================================
 
 	$use-vendor-prefix: true !default;
@@ -23,17 +23,7 @@
 
 	$use-box: true !default;
 
-	$use-chat: true !default;
-
-	$use-plate: true !default;
-
-	$use-round: true !default;
-
-	$use-well: true !default;
-
 	$use-btn: true !default;
-
-	$use-flat: true !default;
 	
 	$use-data: true !default;
 
@@ -43,21 +33,38 @@
 
 	$use-label: true !default;
 	
-	$use-badge: true !default;
-
 	$use-media: true !default;
 	
 	$use-nav: true !default;
 	
+	$use-navbar: true !default;
+
+// 	Skins
+// 	=======================================================
+
+	$use-chat: true !default;
+
+	$use-plate: true !default;
+
+	$use-round: true !default;
+
+	$use-well: true !default;
+
+	$use-flat: true !default;
+
+	$use-badge: true !default;
+
+	$use-block: true !default;
+
 	$use-list: true !default;
 
 	$use-pivot: true !default;
-	
-	$use-navbar: true !default;
 
 // 	Helpers
 // 	=======================================================
-	
+
+// It is not recommended that you set $use-link to false due to dependencies.
+		
 	$use-cf: true !default;	
 
 	$use-flush: true !default;	

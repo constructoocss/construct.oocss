@@ -54,18 +54,8 @@
 	
 	@import "source/com/box/_box.scss";
 	
-	@import "source/com/box/skins/_chat.scss";
-	
-	@import "source/com/box/skins/_plate.scss";
-	
-	@import "source/com/box/skins/_round.scss";
-	
-	@import "source/com/box/skins/_well.scss";
-	
 	@import "source/com/btn/_btn.scss";
-	
-	@import "source/com/btn/skins/_flat.scss";
-	
+		
 	@import "source/com/data/_data.scss";
 	
 	@import "source/com/dock/_dock.scss";
@@ -73,19 +63,35 @@
 	@import "source/com/grid/_grid.scss";
 	
 	@import "source/com/label/_label.scss";
-		
-	@import "source/com/label/skins/_badge.scss";
-	
+			
 	@import "source/com/media/_media.scss";
 	
 	@import "source/com/nav/_nav.scss";
+
+	@import "source/com/navbar/_navbar.scss";
+
+/* ========================================================
+   Skins
+   ======================================================== */
+	
+	@import "source/com/box/skins/_chat.scss";
+	
+	@import "source/com/box/skins/_plate.scss";
+	
+	@import "source/com/box/skins/_round.scss";
+	
+	@import "source/com/box/skins/_well.scss";
+
+	@import "source/com/btn/skins/_flat.scss";
+
+	@import "source/com/label/skins/_badge.scss";
+
+	@import "source/com/nav/skins/_block.scss";
 
 	@import "source/com/nav/skins/_list.scss";
 	
 	@import "source/com/nav/skins/_pivot.scss";
 
-	@import "source/com/navbar/_navbar.scss";
-	
 /* ========================================================
    Helpers
    ======================================================== */

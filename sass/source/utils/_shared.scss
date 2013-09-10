@@ -4,11 +4,6 @@
 /* Margins
    -------------------------------------------------------- */
 
-	%margin--t 
-	{
-		margin-top: $base-line-height;
-	}
-
 	%margin--b, h1, h2, h3, h4, h5, h6, hgroup, p, ul, ol, dl, blockquote, address, table, fieldset, figure, pre
 	{
 		margin-bottom: $base-line-height;
