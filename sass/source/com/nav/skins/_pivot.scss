@@ -38,7 +38,7 @@
 
 	.pivot
 	{
-		color: $pivot-forecolor;
+		color: $pivot-normal-forecolor;
 	}
 
 // E
@@ -46,7 +46,7 @@
 
 	.pivot .nav__link:hover, .pivot .nav__item--active
 	{
-		color: $base-forecolor;
+		color: $pivot-active-forecolor;
 	}
 
 // M

@@ -29,6 +29,8 @@
 
 	$use-dock: true !default;
 
+	$use-drop: true !default;
+
 	$use-grid: true !default;
 
 	$use-label: true !default;
@@ -52,6 +54,8 @@
 
 	$use-flat: true !default;
 
+	$use-tip: true !default;
+
 	$use-badge: true !default;
 
 	$use-block: true !default;
@@ -73,7 +77,11 @@
 
 	$use-img: true !default;
 	
+	$use-lm: true !default;
+	
 	$use-link: true !default;
+	
+	$use-lm: true !default;
 	
 	$use-rule: true !default;
 	

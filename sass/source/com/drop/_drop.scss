@@ -1,0 +1,63 @@
+@if $use-drop == true {
+
+/* @Drop (object)
+   ======================================================== */
+
+/**
+ * Used to drop down content when the user hovers over the block.
+ *
+ * Example:
+ *
+ * <div class="drop">
+ *
+ *		<h1>
+ *			About the Fox (more)
+ *		</h1>
+ *
+ * 		<p class="drop__body">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+
+// B
+// --------------------------------------------------------
+	
+	.drop
+	{
+		position: relative;
+
+		overflow: hidden;
+	}
+
+	.drop:hover
+	{
+		overflow: visible;
+	}
+
+	.drop:hover .drop__body
+	{
+		left: 0;
+	}
+
+// E
+// --------------------------------------------------------
+	
+	.drop__body
+	{
+		position: absolute;
+
+		top: 100%;
+
+		left: -99999px;
+
+		z-index:99999;
+	}
+
+// M
+// --------------------------------------------------------
+
+}

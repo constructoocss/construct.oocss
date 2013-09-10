@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, ul, ol, dl, dd, form, fieldset, 
 .alert, .box, .nav, .navbar, h1, h2, h3, h4, h5, h6, hgroup, p, ul, ol, dl, blockquote, address, table, fieldset, figure, pre {
   margin-bottom: 24px; }
 
-.media--r .media__image, ul, ol {
+.media--r .media__image, .tip .drop__body, ul, ol {
   margin-left: 24px; }
 
 .media__image {
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, ul, ol, dl, dd, form, fieldset, 
 
 /* Padding
    -------------------------------------------------------- */
-.alert, .box--s, .navbar, .btn {
+.alert, .box--s, .navbar, .btn, .tip .drop__body {
   padding: 12px; }
 
 .box {
@@ -204,12 +204,12 @@ h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre, ul, ol, dl, dd, form, fieldset, 
    -------------------------------------------------------- */
 /* Weight
    -------------------------------------------------------- */
-.alert, .label, .nav__item--active {
+.alert, .label, .nav__item--active, .navbar .navbar__title, .navbar .nav__link {
   font-weight: 600; }
 
 /* Size
    -------------------------------------------------------- */
-.alert, .label, .navbar {
+.alert, .label, .navbar, .tip .drop__body {
   font-size: 85%; }
 
 /* Clearfix
@@ -542,6 +542,43 @@ label {
 .dock--snap {
   position: fixed; }
 
+/* @Drop (object)
+   ======================================================== */
+/**
+ * Used to drop down content when the user hovers over the block.
+ *
+ * Example:
+ *
+ * <div class="drop">
+ *
+ *		<h1>
+ *			About the Fox (more)
+ *		</h1>
+ *
+ * 		<p class="drop__body">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+.drop {
+  position: relative;
+  overflow: hidden; }
+
+.drop:hover {
+  overflow: visible; }
+
+.drop:hover .drop__body {
+  left: 0; }
+
+.drop__body {
+  position: absolute;
+  top: 100%;
+  left: -99999px;
+  z-index: 99999; }
+
 /* @Grid (object)
    ======================================================== */
 /**
@@ -760,7 +797,17 @@ label {
  * </div>
  */
 .navbar .nav {
+  float: right;
   margin: 0; }
+
+.navbar .nav__item {
+  color: #aaaaaa; }
+
+.navbar .navbar__title, .navbar .nav__link {
+  text-decoration: none; }
+
+.navbar__title, .navbar .nav__item:hover, .navbar .nav__item--active {
+  color: white; }
 
 /* ========================================================
    Skins
@@ -918,6 +965,27 @@ label {
  *
  * </p>
  */
+/* @Tip (skin)
+   ======================================================== */
+/**
+ * Used to create tooltips. Place the color swatch on drop__body
+ *
+ * Example:
+ *
+ * <div class="tip drop">
+ *
+ *		<h1>
+ *			About the Fox (more)
+ *		</h1>
+ *
+ * 		<p class="red drop__body">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
 /* @Block (skin)
    ======================================================== */
 /**
@@ -1046,6 +1114,17 @@ label {
  */
 /* @Flush (helper)
    ======================================================== */
+/**
+ * Used to remove margins from an element.
+ *
+ * Example:
+ *
+ * <p class="flush--b">
+ *
+ * 		The quick brown fox jumped over the lazy dog.
+ *
+ * </p>
+ */
 .flush--t {
   margin-top: 0; }
 
@@ -1109,12 +1188,32 @@ label {
 .link__icon {
   margin-right: 6px; }
 
-.link--pseudo, th a, .navbar__title, .block .nav__link, .list .nav__link:hover, .navbar .nav__link:hover {
+.link--pseudo, th a, .block .nav__link, .list .nav__link:hover {
   color: inherit;
   text-decoration: none; }
 
-.link--pseudo:hover, th a:hover, .navbar__title:hover, .block .nav__link:hover, .list .nav__link:hover, .navbar .nav__link:hover {
+.link--pseudo:hover, th a:hover, .block .nav__link:hover, .list .nav__link:hover {
   text-decoration: underline; }
+
+/* @Lm (helper)
+   ======================================================== */
+/**
+ * Used to double up the margin-bottom for landmarks.
+ *
+ * Example:
+ *
+ * <h1 class="lm">
+ *
+ *		About the Fox
+ *
+ * </h1>
+ *
+ * <p>
+ *		The quick brown fox jumped over the lazy dog.
+ * </p>
+ */
+.lm {
+  margin-bottom: 48px; }
 
 /* @Rule (object)
    ======================================================== */

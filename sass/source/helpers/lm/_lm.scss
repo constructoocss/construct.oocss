@@ -1,0 +1,30 @@
+@if $use-lm == true {
+
+/* @Lm (helper)
+   ======================================================== */
+
+/**
+ * Used to double up the margin-bottom for landmarks.
+ *
+ * Example:
+ *
+ * <h1 class="lm">
+ *
+ *		About the Fox
+ *
+ * </h1>
+ *
+ * <p>
+ *		The quick brown fox jumped over the lazy dog.
+ * </p>
+ */
+
+// B
+// --------------------------------------------------------
+
+	.lm
+	{
+		margin-bottom: $base-line-height * 2;
+	}	
+
+}

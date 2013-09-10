@@ -23,16 +23,16 @@
 	{
 		@if $use-prefix == true {
 
-		-webkit-#{$property}: $value;
+			-webkit-#{$property}: $value;
 
- 		   -moz-#{$property}: $value;
+	 		   -moz-#{$property}: $value;
 
- 		    -ms-#{$property}: $value;
+	 		    -ms-#{$property}: $value;
 
- 		     -o-#{$property}: $value;
+	 		     -o-#{$property}: $value;
 	    }
 
- 		        #{$property}: $value;
+ 		#{$property}: $value;
  		        	    
 	}	
 

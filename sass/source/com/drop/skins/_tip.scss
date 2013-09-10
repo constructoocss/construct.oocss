@@ -1,0 +1,44 @@
+@if $use-tip == true {
+
+/* @Tip (skin)
+   ======================================================== */
+
+/**
+ * Used to create tooltips. Place the color swatch on drop__body
+ *
+ * Example:
+ *
+ * <div class="tip drop">
+ *
+ *		<h1>
+ *			About the Fox (more)
+ *		</h1>
+ *
+ * 		<p class="red drop__body">
+ *
+ *			The quick brown fox jumped over the lazy dog.
+ *
+ *		</p>
+ *
+ * </div>
+ */
+
+// B
+// --------------------------------------------------------
+	
+	.tip .drop__body
+	{
+		@extend %padding--s;
+
+		@extend %margin--l;
+
+		@extend %size--s;		
+	}
+
+// E
+// --------------------------------------------------------
+
+// M
+// --------------------------------------------------------
+
+}

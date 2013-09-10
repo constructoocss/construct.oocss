@@ -48,24 +48,36 @@
 		@extend %size--s;
 	
 		@extend .box--s;
-
-		@extend .list;
 	}
 
 	.navbar .nav
 	{
+		float: right;
+
 		margin: 0; 
 	}
 
 // E
 // --------------------------------------------------------
 
-	.navbar__title
+	.navbar .nav__item
 	{
-		@extend .link--pseudo;
+		color: $navbar-normal-forecolor;
+	}
+
+	.navbar .navbar__title, .navbar .nav__link
+	{
+		@extend %weight--bold;
+
+		text-decoration: none;
 	}
 
 // M
 // --------------------------------------------------------
+
+	.navbar__title, .navbar .nav__item:hover, .navbar .nav__item--active
+	{
+		color: $navbar-active-forecolor;
+	}
 
 }
