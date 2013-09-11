@@ -1,8 +1,11 @@
 # construct.oocss
 
-Construct.oocss is a Sass-based object-oriented framework that allows multiple sites to use the same code-base. Pretty nifty. It accomplishes this by separating the components to include, from the typography, and from the source code. Are you confused yet? Great. Please read on so we can clear a few things up for you.
 
-### Getting Started
+Construct.oocss is a lightweight, Sass-based object-oriented framework that uses [BEM](http://bem.info/)-style naming conventions.
+
+## Configuration
+
+### Overview
 
 Inside _imports.scss_, you will notice the first two import statement point to:
 
@@ -16,7 +19,7 @@ __2. A Theme File__
 
     @imports "themes/_default.scss";  
     
-Theme files contain variables that determine the typography you want to use.
+Theme files contain variables that determine the typography you want to use. 
 
 ### Creating a Build
 
@@ -36,7 +39,11 @@ __2. Edit the variables__
      .
      .
      .
-     
+
+__3. Change the following path in _imports.scss_ to the new file__
+
+    @imports "builds/_default.scss";  
+    
 ### Creating a Theme
 
 __1. Make a copy from the original__
@@ -54,4 +61,7 @@ __2. Edit the variables__
      .
      .
 
+__3. Change the following path in _imports.scss_ to the new file__
+
+    @imports "builds/_default.scss";  
      
