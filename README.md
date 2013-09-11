@@ -7,7 +7,7 @@ A Object Oriented Cascading Style Sheet framework for modern browsers.
 Construct.oocss supports multiple sites using the same code-base. In the _imports.scss_ file, you will notice the first two _@imports_ statements import:
 
 
-    __1. A Build File__
+ __1. A Build File__
 
 Build files contain variables that determine what components to include.
 
