@@ -18,7 +18,7 @@ Theme files contain variables that determine the site's visual appearence.
 
 ### Creating a Build
 
-Always copy from the default build:
+Always copy from the default Build file:
 
     copy builds/_default.scss builds/_your-build.scss
     
@@ -32,7 +32,7 @@ In the _imports.scss_ file, change the following line to your desired Build file
 
 ### Creating a Theme
 
-Always copy from the default Theme:
+Always copy from the default Theme file:
 
     copy themes/_default.scss themes/_your-build.scss
     
