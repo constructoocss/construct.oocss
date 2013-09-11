@@ -1,43 +1,57 @@
 # construct.oocss
 
-A Object Oriented Cascading Style Sheet framework for modern browsers.
+Construct.oocss is a Sass-based object-oriented framework that allows multiple sites to use the same code-base. Pretty nifty. It accomplishes this by separating the components to include, from the typography, and from the source code. Are you confused yet? Great. Please read on so we can clear a few things up for you.
 
-## Getting Started
+### Getting Started
 
-Construct.oocss supports multiple sites using the same code-base. In the _imports.scss_ file, you will notice the first two _@imports_ statements will import:
+Inside _imports.scss_, you will notice the first two import statement point to:
 
- __1. A Build File__
+__1. A Build File__
 
-Build files contain variables that determine what components to include.
+    @imports "builds/_default.scss";  
 
-__2, A Theme File__
+Build files contain variables that determine the components you want to use.
 
-Theme files contain variables that determine the site's visual appearence.
+__2. A Theme File__
 
-## Working with Builds
+    @imports "themes/_default.scss";  
+    
+Theme files contain variables that determine the typography you want to use.
 
 ### Creating a Build
 
-Always copy from the default Build file:
+__1. Make a copy from the original__
 
-    copy builds/_default.scss builds/_your-build.scss
-    
-### Changing the Build
+     copy builds/_default.scss builds/new-build.scss
 
-In the _imports.scss_ file, change the following line to your desired Build file.
+__2. Edit the variables__
+     
+     $use-alert: true !default;
+     
+     $use-bar: true !default;
 
-    @imports "builds/_default.scss";    
+     $use-box: true !default;
 
-## Working with Themes
-
+     $use-btn: true !default;     
+     .
+     .
+     .
+     
 ### Creating a Theme
 
-Always copy from the default Theme file:
+__1. Make a copy from the original__
 
-    copy themes/_default.scss themes/_your-build.scss
-    
-### Changing the Theme
+     copy themes/_default.scss builds/new-build.scss
 
-In the _imports.scss_ file, change the following line to your desired Theme file.
+__2. Edit the variables__
+     
+     $h1-size: 24px;
+     
+     $h2-size: 24px;
 
-    @imports "themes/_default.scss";    
+     $h3-size: 24px;     
+     .
+     .
+     .
+
+     
