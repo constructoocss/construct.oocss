@@ -4,7 +4,7 @@ A Object Oriented Cascading Style Sheet framework for modern browsers.
 
 ## Getting Started
 
-Construct.oocss supports multiple sites using the same code-base. In the _imports.scss_ file, you will notice the first two _@imports_ statements import:
+Construct.oocss supports multiple sites using the same code-base. In the _imports.scss_ file, you will notice the first two _@imports_ statements will import:
 
  __1. A Build File__
 
