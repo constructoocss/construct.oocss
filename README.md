@@ -69,7 +69,7 @@ __3. Change the following path in _imports.scss_ to the new file__
 
 ### Overview
 
-Inside the theme file, you will notice three sass lists.
+Inside the theme file, you will notice three lists. These are used to build out color skins.
 
 __1. $swatch-classname__
 
@@ -82,7 +82,7 @@ __1. $swatch-classname__
         .
     }
 
-Used to create a list of color skins based on the items in this list.
+Used to create a list of color skins based on the name in this list.
 
 __2. $swatch-backcolor__
 
@@ -95,7 +95,7 @@ __2. $swatch-backcolor__
         .
     }
 
-Used to change the default background-color on each color skin.
+Used to set the default background-color on each color skin.
 
 
 __3. $swatch-forecolor__
@@ -109,13 +109,57 @@ __3. $swatch-forecolor__
         .
     }
 
-Used to change the default foreground-color on each color skin.
+Used to set the default foreground-color on each color skin.
 
-### Considerations
+#### How does it render
 
-There are somethings worth mentioning:
+To understand what happens behind the scenes, lets see how a .red swatch would render.
 
-* Buttons will darken the color skin by 5% when the user presses it
-* A --text modifier is added to each so you can use the background color as a foreground color
+__1. Theme File__
 
+     $swatch-classname:
+     {
+         "red"
+     };
 
+     $swatch-backcolor:
+     {
+         #ED1846
+     };
+    
+     $swatch-forecolor:
+     {
+         #fff
+     };
+
+__2. Output__
+
+     /* Used for most objects */
+     
+     .red
+     {
+          background: #ED1846;
+          
+          color: #fff;
+     }
+
+     /* Used for a button's active state */
+     
+     .red.btn:active
+     {
+          background: #ED1846;
+     }   
+     
+     /* Used for the arrow on chat boxes */
+     
+     .red.chat:after
+     {
+          border-top: 12px solid #ED1846;
+     }   
+     
+     /* Used to change the color on text */
+     
+     .red--text
+     {
+        color: #ED1846;
+     }
