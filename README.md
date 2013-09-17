@@ -73,7 +73,7 @@ Inside the theme file, you will notice three sass lists.
 
 __1. $swatch-classname__
 
-    $swatch-classname
+    $swatch-classname:
     {
         "white",
         "black",
@@ -86,7 +86,7 @@ Used to create a list of color skins based on the items in this list.
 
 __2. $swatch-backcolor__
 
-    $swatch-classname
+    $swatch-backcolor:
     {
         #fff,
         #000,
@@ -100,7 +100,7 @@ Used to change the default background-color on each color skin.
 
 __3. $swatch-forecolor__
 
-    $swatch-classname
+    $swatch-forecolor:
     {
         #000,
         #fff
