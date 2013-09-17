@@ -65,3 +65,57 @@ __3. Change the following path in _imports.scss_ to the new file__
 
     @imports "builds/_default.scss";  
      
+## Swatching
+
+### Overview
+
+Inside the theme file, you will notice three sass lists.
+
+__1. $swatch-classname__
+
+    $swatch-classname
+    {
+        "white",
+        "black",
+        .
+        .
+        .
+    }
+
+Used to create a list of color skins based on the items in this list.
+
+__2. $swatch-backcolor__
+
+    $swatch-classname
+    {
+        #fff,
+        #000,
+        .
+        .
+        .
+    }
+
+Used to change the default background-color on each color skin.
+
+
+__3. $swatch-forecolor__
+
+    $swatch-classname
+    {
+        #000,
+        #fff
+        .
+        .
+        .
+    }
+
+Used to change the default foreground-color on each color skin.
+
+### Considerations
+
+There are somethings worth mentioning:
+
+* Buttons will darken the color skin by 5% when the user presses it
+* A --text modifier is added to each so you can use the background color as a foreground color
+
+
