@@ -1,0 +1,65 @@
+@if $use-toolbar == true and $use-nav == true {
+
+/* @List (skin)
+   ======================================================== */
+
+/**
+ * Used to create toolbar navigation.
+ *
+ * Example:
+ *
+ * <ul class="toolbar nav">
+ *
+ * 		<li class="nav__item">	
+ *			
+ *			<a class="nav__link">
+ *					
+ *				Item 1
+ *
+ *			<a>
+ *				
+ *		</li>
+ *
+ *		<li class="nav__item">	
+ *
+ *			<a class="nav__link">
+ *			
+ *				Item 2
+ *
+ * 			</a>	
+ *
+ *		</li>
+ *
+ * </ul>
+ */
+
+// B
+// --------------------------------------------------------
+
+	.toolbar
+	{
+		background: $toolbar-normal-backcolor;
+	}
+
+// E
+// --------------------------------------------------------
+
+	.toolbar .nav__item
+	{
+		margin: 0;
+	}
+
+	.toolbar .nav__link
+	{
+		padding: 12px;
+	}
+
+	.toolbar .nav__link:hover
+	{
+		background: $toolbar-hover-backcolor;
+	}
+
+// M
+// --------------------------------------------------------
+
+}

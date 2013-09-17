@@ -12,4 +12,9 @@
         @include fontsize($lead-size, $base-line-height * 1.5);
     }    
 
+    .soft
+    {
+    	color: $soft-color;
+    }
+
 }

@@ -4,7 +4,7 @@
    ======================================================== */
 
 /**
- * Used to create tooltips. Place the color swatch on drop__body
+ * Used to create tooltips. Place the color swatch on drop__body.
  *
  * Example:
  *
@@ -30,9 +30,11 @@
 	{
 		@extend %padding--s;
 
-		@extend %margin--l;
-
-		@extend %size--s;		
+		@extend %size--s;
+	
+		margin-left: $base-line-height  * 2;	
+		
+		margin-top: $base-line-height / 4;	
 	}
 
 // E
