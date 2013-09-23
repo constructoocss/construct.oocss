@@ -2,10 +2,10 @@
 
 ## 1.1.0
 
-* Most objects extend placeholders rather than other objects
+* Component modifiers can be turned on and off.
+* Components extend placeholders rather than other objects (with few exceptions)
 
-* Modifiers can be turned on and off!
 
 ## 1.0.1
 
-* Fixed minor issues found in the initial release.
+* Fixed missing import statement for the Text helper.
