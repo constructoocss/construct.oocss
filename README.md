@@ -3,6 +3,8 @@
 
 Construct.oocss is a lightweight, Sass-based object-oriented framework that uses [BEM](http://bem.info/)-style naming conventions.
 
+Visit our [Google Group](https://groups.google.com/d/forum/constructoocss)
+
 ## Configuration
 
 ### Overview
